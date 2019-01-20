@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 //import { LocationComponent } from '../location/location.component';
 import { Location } from '../location';
 import { LOCATIONS } from '../mock-locations';
+//import { ReadingComponent } from '../reading/reading.component';
+//import * as products from "../mock-data.JSON";
 
 @Component({
   selector: 'app-vue-resultat',
@@ -17,6 +19,12 @@ export class VueResultatComponent implements OnInit {
     //this.markers = LOCATIONS
   }
 
+  function getData():Location[]{
+    products.
+
+
+    return this;
+  }
   ngOnInit() {
     console.log("here");
     console.log(this.markers);
