@@ -1,0 +1,50 @@
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC" rel="stylesheet">
+  </head>
+  <style>
+    .example-list{
+      flex-direction: column;
+    }
+    .example-box{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      font-size: 22px;
+      flex-direction: column;
+    }
+
+    .example-subbox{
+      font-size: 18px;
+    
+    }
+
+    .big-box{
+      flex-direction: column;
+    }
+
+  </style>
+<div cdkDropList class="example-list" (cdkDropListDropped)="drop($event)">
+    <div class="example-box" *ngFor="let priority of priorities" cdkDrag>{{priority.nom}} 
+      <div class="example-subbox" *ngFor= "let criteria of priority.criterias">
+      {{criteria}}
+      <mat-checkbox></mat-checkbox>    
+    </div><br>
+  </div>
+</div>
+<button mat-raised-button color="primary">Continuer</button>
+<div class="big-box">
+    <div class="box-1">
+        <p>1</p>
+      </div>
+      <div class="box-2">
+        <p>2</p>
+      </div>
+      <div class="box-3">
+        <p>3</p>
+      </div>
+      <div class="box-4">
+        <p>4</p>
+      </div>
+</div>
+
+
