@@ -29,6 +29,39 @@ getGlobalScore([o,a])
 .then(r => console.log(r));
 
 
+function getPonderatedScores(arr, prefs) {
+    let maxScore = o;
+    return getGlobalScore(arr)
+        .then(res => {
+            res.forEach(n => {
+                n.scoreTransport = n.scoreTransport * prefs.transports;
+                n.scoreSchool = n.scoreSchool * (prefs.education.primary + prefs.education.secondary);
+                n.scoreUniversity = n.scoreUniversity * prefs.education.university;
+                n.scoreDentist = n.scoreDentist * prefs.health.dentist;
+                n.scoreHospital = n.scoreHospital * prefs.health.hospital;
+                n.scoreClinic = n.scoreClinic * prefs.health.clinic;
+                n.scoreRestaurant = n.scoreRestaurant * (prefs.commerce.restaurant + prefs.commerce.grocery);
+                n.scoreBar = n.scoreBar * prefs.commerce.entertainment;
+                n.globalScore = n.scoreTransport + n.scoreSchool + n.scoreUniversity + n.scoreDentist + n.scoreHospital + n.scoreClinic + n.scoreRestaurant + n.scoreBar;
+
+                if (n.globalScore > maxScore) maxScore = n.globalScore;
+            });
+            // normalize
+            res.forEach(n => {
+                n.globalScore / maxScore;
+            });
+
+            // sort
+            res.sort((a, b) => {
+                return a.globalScore - b.globalScore;
+            });
+
+            // crop
+            return res.slice(0, 20);
+        });
+}
+
+
 function getGlobalScore(arr) {
     // array should be of 20 approx
 

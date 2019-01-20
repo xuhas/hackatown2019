@@ -11,7 +11,7 @@ class Ad{
 
 class Preferences{
     constructor(bus, metro, dentist, clinic, hospital, restaurant, entertainment, grocery, primary, secondary, university){
-        this.transports = {bus, metro};
+        this.transports = bus*0.3 + metro*0.7;
         this.health = {dentist, clinic, hospital};
         this.commerce = {restaurant, entertainment, grocery};
         this.education = {primary, secondary, university};
