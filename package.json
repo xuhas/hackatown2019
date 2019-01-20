@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "@google/maps": "^0.5.5",
+        "kijiji-scraper": "^4.0.4",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.2",
+        "utm-latlng": "^1.0.5"
+    }
+}
