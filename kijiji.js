@@ -33,7 +33,10 @@ let params = {
     categoryId: kijiji.categories.REAL_ESTATE.APARTMENTS_AND_CONDOS_FOR_RENT,  // 
     sortByName: "dateDesc"  // Show the cheapest listings first
 };
-
+generateAds({}, 30)
+    .then(res => {
+        console.log(res);
+    })
 // Scrape using returned promise
 function generateAds(prefs, nbResults){
 

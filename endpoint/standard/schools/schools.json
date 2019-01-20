@@ -1,0 +1,2515 @@
+[
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4939405,
+                "lng": -73.5969681
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49532317989273,
+                    "lng": -73.59569867010728
+                },
+                "southwest": {
+                    "lat": 45.49262352010728,
+                    "lng": -73.59839832989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "f0fba538404eb861239e457302abfaed5a3553dc",
+        "name": "St. George's School of Montreal",
+        "place_id": "ChIJqwq_mxAayUwRBShiFsE5N_U",
+        "plus_code": {
+            "compound_code": "FCV3+H6 Montreal, Quebec, Canada",
+            "global_code": "87Q8FCV3+H6"
+        },
+        "rating": 3.9,
+        "reference": "ChIJqwq_mxAayUwRBShiFsE5N_U",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 14,
+        "vicinity": "3100 The Boulevard, Montréal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.5066007,
+                "lng": -73.5773772
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.50804557989272,
+                    "lng": -73.57592862010729
+                },
+                "southwest": {
+                    "lat": 45.50534592010728,
+                    "lng": -73.57862827989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "59ecb3a799334fb22568a27e9752dc82acf4ea0b",
+        "name": "School of Religious Studies",
+        "place_id": "ChIJzeaHDzgayUwRt8WA7e9E8jg",
+        "plus_code": {
+            "compound_code": "GC4F+J2 Montreal, Quebec, Canada",
+            "global_code": "87Q8GC4F+J2"
+        },
+        "rating": 0,
+        "reference": "ChIJzeaHDzgayUwRt8WA7e9E8jg",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "3510 Rue University, Montréal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.505633,
+                "lng": -73.573047
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.50696947989272,
+                    "lng": -73.57165097010729
+                },
+                "southwest": {
+                    "lat": 45.50426982010728,
+                    "lng": -73.57435062989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "fe24b28ec5603eb746fc28fa4ee236ea4519e5db",
+        "name": "Schulich School of Music",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114146936200095763256/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAARTdURD1Sbfok4lavh6P1rhXmTxX2x9HOF20Zy_pZqfxdqsGws4n5lt-mXa2UiYmI7Xf4AYxqcz4Es_eYUpWEoI2HP4oGGnjyqRwB_s_EF2bcOK8AwvihTi_KHgHHG54NEhCR1TYYe-SFk0mkmYrVAH2NGhR-jRaSWsELc8dsmGd3nlYtW1EtsQ",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJuxH7OUYayUwRqaD-Klh0_i4",
+        "plus_code": {
+            "compound_code": "GC4G+7Q Montreal, Quebec, Canada",
+            "global_code": "87Q8GC4G+7Q"
+        },
+        "rating": 4.2,
+        "reference": "ChIJuxH7OUYayUwRqaD-Klh0_i4",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13,
+        "vicinity": "555 Sherbrooke St W, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4861723,
+                "lng": -73.5972999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.48737987989272,
+                    "lng": -73.59589152010727
+                },
+                "southwest": {
+                    "lat": 45.48468022010728,
+                    "lng": -73.59859117989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9b5a0d271a5035104f799cc3703cb46c6340d7d7",
+        "name": "Selwyn House School",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 930,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107897741111631106745/photos\">Selwyn House School</a>"
+                ],
+                "photo_reference": "CmRaAAAAf1T39wsZF75zCQT72zxerArtYHFis674PzlLgVy3W9qFmv8wdfzajm_izZ2GKw3nz5Js2UMt7ee-ZXyq6jCpPd_lcqTZJfTTXqKeYbpwbSqQw95CqKXeG4XSxJJDEKq_EhBW3k2ktChed5_x1NlF19kDGhSwIZ7vrWIfhwlGlJ1b3pnnaPAAXg",
+                "width": 1653
+            }
+        ],
+        "place_id": "ChIJ2YJetQ4ayUwR6PzJ0m4G31k",
+        "plus_code": {
+            "compound_code": "FCP3+F3 Westmount, Quebec, Canada",
+            "global_code": "87Q8FCP3+F3"
+        },
+        "rating": 4.9,
+        "reference": "ChIJ2YJetQ4ayUwR6PzJ0m4G31k",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 37,
+        "vicinity": "95 Chemin de la Côte-Saint-Antoine, Westmount"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4912467,
+                "lng": -73.59692319999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49250392989271,
+                    "lng": -73.59565362010727
+                },
+                "southwest": {
+                    "lat": 45.48980427010727,
+                    "lng": -73.59835327989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1761e0f6a18457a707990bfb3ce5c0579b577ca9",
+        "name": "Miss Edgar's & Miss Cramp's School",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 899,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108234947677785567290/photos\">Miss Edgar&#39;s &amp; Miss Cramp&#39;s School</a>"
+                ],
+                "photo_reference": "CmRaAAAAmXNAhjxGIzVrQU8pQ0V49BYve0pUco0E1TY4geQY_QE03r3BqEzdxVo0ALtEYzw8OohUKC8MaSCySNUfNwg2tJeUUiX-mv26h8AGgrip8XYo_OKmb7niG2OKN5JfAf4IEhC-WvTb4se8eWWKev8Lm1WVGhTCBWx4j7hRKxPJqnhDL2Y9QaJvDg",
+                "width": 1348
+            }
+        ],
+        "place_id": "ChIJIyflJRAayUwRqDCdoZIBohs",
+        "plus_code": {
+            "compound_code": "FCR3+F6 Westmount, Quebec, Canada",
+            "global_code": "87Q8FCR3+F6"
+        },
+        "rating": 4.8,
+        "reference": "ChIJIyflJRAayUwRqDCdoZIBohs",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 6,
+        "vicinity": "525 Mt Pleasant Ave, Westmount"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.647858,
+                "lng": -73.7889658
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.64930662989272,
+                    "lng": -73.78760457010728
+                },
+                "southwest": {
+                    "lat": 45.64660697010727,
+                    "lng": -73.79030422989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ebc18d26cbeeafb39a4021f7bf43d83d0efbe913",
+        "name": "Commission Scolaire Sir Wilfrid Laurier",
+        "place_id": "ChIJJ04pJp4nyUwRkDGPu6TrypA",
+        "plus_code": {
+            "compound_code": "J6X6+4C Rosemère, Quebec, Canada",
+            "global_code": "87Q8J6X6+4C"
+        },
+        "rating": 0,
+        "reference": "ChIJJ04pJp4nyUwRkDGPu6TrypA",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "501 rue Northcote, Rosemère"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4762901,
+                "lng": -73.6360121
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.47776322989272,
+                    "lng": -73.63497107010727
+                },
+                "southwest": {
+                    "lat": 45.47506357010727,
+                    "lng": -73.63767072989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "3a11401a9c0d32895d7c8c8f1709963c316f1f61",
+        "name": "English Montreal School Board",
+        "place_id": "ChIJ34i8RkUXyUwRmpaXFvjGSds",
+        "plus_code": {
+            "compound_code": "F9G7+GH Montreal, Quebec, Canada",
+            "global_code": "87Q8F9G7+GH"
+        },
+        "rating": 0,
+        "reference": "ChIJ34i8RkUXyUwRmpaXFvjGSds",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "6000 Av Fielding, Montréal, QC H3X 1T4 Fielding Ave, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.551676,
+                "lng": -73.58349799999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.55312937989272,
+                    "lng": -73.58208222010728
+                },
+                "southwest": {
+                    "lat": 45.55042972010727,
+                    "lng": -73.58478187989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "45a4f77087451012bbf705252f7555570b3c4ad9",
+        "name": "English Montreal School Board",
+        "place_id": "ChIJ3Y7iH1QZyUwRS0BKeh8BXHo",
+        "plus_code": {
+            "compound_code": "HC28+MJ Montreal, Quebec, Canada",
+            "global_code": "87Q8HC28+MJ"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ3Y7iH1QZyUwRS0BKeh8BXHo",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "6000 Fielding Ave, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4949435,
+                "lng": -73.7003162
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49616892989272,
+                    "lng": -73.69913072010729
+                },
+                "southwest": {
+                    "lat": 45.49346927010728,
+                    "lng": -73.70183037989274
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "17d18185667b2617176b234a113e7fc1f894efe7",
+        "name": "Commission Scolaire",
+        "place_id": "ChIJGQsYL_YXyUwRd5Hz9jiFVKM",
+        "plus_code": {
+            "compound_code": "F7VX+XV Montreal, Quebec, Canada",
+            "global_code": "87Q8F7VX+XV"
+        },
+        "rating": 4,
+        "reference": "ChIJGQsYL_YXyUwRd5Hz9jiFVKM",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "9800 Cavendish Blvd bureau 400, Saint-Laurent"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.517643,
+                "lng": -73.568743
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.51895287989272,
+                    "lng": -73.56743777010728
+                },
+                "southwest": {
+                    "lat": 45.51625322010727,
+                    "lng": -73.57013742989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2233112975debf8ebecf2dbd2a683d133ed07c69",
+        "name": "Institut de tourisme et d'hôtellerie du Québec (ITHQ)",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3744,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100373467170596316207/photos\">Agence Virtuo</a>"
+                ],
+                "photo_reference": "CmRaAAAAvlXPV8yMbiVfTHgnlI1vMEsDR5AsgZaEBzgI4fZLBuOzfhxPLyIQtXGdyEa_aRRApbObcUmFEYOTeWjQKgCTdxotBtYQjHIXs5g8hsHokkcCF0-fIRRS_eF7bFLhkU8EEhDpXETq8gEpe0eaCJUTJyTzGhTBSyeEgOE4PQe1pyBjCeoekdVahg",
+                "width": 5616
+            }
+        ],
+        "place_id": "ChIJ9wNgr4mWuEwRBiwaWGa30WE",
+        "plus_code": {
+            "compound_code": "GC9J+3G Montreal, Quebec, Canada",
+            "global_code": "87Q8GC9J+3G"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ9wNgr4mWuEwRBiwaWGa30WE",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 46,
+        "vicinity": "3535 St Denis St, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.505243,
+                "lng": -73.57584709999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.50617277989272,
+                    "lng": -73.5731462
+                },
+                "southwest": {
+                    "lat": 45.50347312010728,
+                    "lng": -73.57674739999999
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "733fd103c3dac617f6cf4ea8dd7041be5a147586",
+        "name": "McGill University School of Architecture",
+        "place_id": "ChIJX6Xgl0cayUwRAp0_1ZjW7NQ",
+        "plus_code": {
+            "compound_code": "GC4F+3M Montreal, Quebec, Canada",
+            "global_code": "87Q8GC4F+3M"
+        },
+        "rating": 0,
+        "reference": "ChIJX6Xgl0cayUwRAp0_1ZjW7NQ",
+        "scope": "GOOGLE",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "Macdonald-Harrington Building, 815 Rue Sherbrooke Ouest, Montréal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.5263482,
+                "lng": -73.58895889999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.52783752989272,
+                    "lng": -73.58747952010728
+                },
+                "southwest": {
+                    "lat": 45.52513787010728,
+                    "lng": -73.59017917989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "66daf9a92666bf3909b25bb1f436da3585811db7",
+        "name": "National Theatre School of Canada",
+        "photos": [
+            {
+                "height": 1200,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114146936200095763256/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAA73PZfEeG6Z627OBaXmnafXhEbpNR0G3mnsJHE5xJ4Ze1TsAn_QYQnqGXehclb5-JIpeC4prNOnuqESEVYYBUhruX_VHTL-Yj2NKDyPFRN_PMdtKhSBkn1-yLrMJ-pnfdEhA_NsD89X57OnuiBs7GBe4pGhTGpen4EilmbwTjPdfrQQb5U9JLlg",
+                "width": 1600
+            }
+        ],
+        "place_id": "ChIJnyQfCNcbyUwRHz_P-1QjmVk",
+        "plus_code": {
+            "compound_code": "GCG6+GC Montreal, Quebec, Canada",
+            "global_code": "87Q8GCG6+GC"
+        },
+        "rating": 5,
+        "reference": "ChIJnyQfCNcbyUwRHz_P-1QjmVk",
+        "scope": "GOOGLE",
+        "types": [
+            "university",
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "5030 St Denis St, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4964617,
+                "lng": -73.82419999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49771187989273,
+                    "lng": -73.82321772010727
+                },
+                "southwest": {
+                    "lat": 45.49501222010728,
+                    "lng": -73.82591737989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9a074b1cec79d2e786d0e9c7e1f8dae2aa0bf064",
+        "name": "Westpark Elementary",
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117312889299394694860/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAjAOfBIuBDY4TinsJaLb9G3e4VaMC0ZwSZPk8VRT4mETXPshXJycr5kCSmw-fRY2HfLIOH1ZttqGl3oVeJuTJ2h0ZWtgvn_bOg12vKVWjDpotmsNoAm80Ubh1Pa3-qkZMEhAMTJVGDQRC7dGCw05_gjZuGhRCBsKSoJrhmgQ-GVrN8kvkLlC8Pg",
+                "width": 2448
+            }
+        ],
+        "place_id": "ChIJEYZwpV87yUwREUSsJMTQnpI",
+        "plus_code": {
+            "compound_code": "F5WG+H8 Dollard-Des Ormeaux, Quebec, Canada",
+            "global_code": "87Q8F5WG+H8"
+        },
+        "rating": 4.9,
+        "reference": "ChIJEYZwpV87yUwREUSsJMTQnpI",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "8 Rue Howard, Dollard-des-Ormeaux"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4910013,
+                "lng": -73.5972692
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49240197989272,
+                    "lng": -73.59587532010728
+                },
+                "southwest": {
+                    "lat": 45.48970232010728,
+                    "lng": -73.59857497989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "501223d8f21c3585740cd652853fd25d201bdf61",
+        "name": "School Ecs Inc",
+        "place_id": "ChIJDQ49KRAayUwRfC2YTIYGQlw",
+        "plus_code": {
+            "compound_code": "FCR3+C3 Westmount, Quebec, Canada",
+            "global_code": "87Q8FCR3+C3"
+        },
+        "rating": 3.7,
+        "reference": "ChIJDQ49KRAayUwRfC2YTIYGQlw",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "525 Mt Pleasant Ave, Westmount"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4921247,
+                "lng": -73.6839348
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49370617989272,
+                    "lng": -73.68273892010728
+                },
+                "southwest": {
+                    "lat": 45.49100652010728,
+                    "lng": -73.68543857989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "cb3b555f885f49c4a06a0e4cfd69a3054ca67db7",
+        "name": "Vanguard School",
+        "photos": [
+            {
+                "height": 4608,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113479166472817037927/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAPNG4hCiImt-gQAvmXT1qubTq5P6RcDRisrkG7yd33ZkD3lIGz3k4n3E_pSzT3h6Ym4FOB46hqVkmJBFC10dGMo8sTf5_8Vw6gjWfIbjZKdvnRMo09rH1-sQ0X81TVIRUEhBRj1XBEj2qwv8EGwxwLX6NGhTRVNiLx8_OI6LR978_Rx5-wJ1BYw",
+                "width": 3456
+            }
+        ],
+        "place_id": "ChIJRwPPiwoiyUwR7X9WxaZjvSk",
+        "plus_code": {
+            "compound_code": "F8R8+RC Montreal, Quebec, Canada",
+            "global_code": "87Q8F8R8+RC"
+        },
+        "rating": 4.3,
+        "reference": "ChIJRwPPiwoiyUwR7X9WxaZjvSk",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 35,
+        "vicinity": "5935 Chemin de la Côte-de-Liesse, Saint-Laurent"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4954361,
+                "lng": -73.5791907
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49679147989272,
+                    "lng": -73.57745812010727
+                },
+                "southwest": {
+                    "lat": 45.49409182010728,
+                    "lng": -73.5801577798927
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "04a03ebedbf5dd76b2382ae0db9a12f78a5c77a5",
+        "name": "John Molson School of Business",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116592736859143127049/photos\">Arman Motaghi</a>"
+                ],
+                "photo_reference": "CmRaAAAARS2nAkJvdgfyBzciWfmYrhEbhaU2NrwV47lpNudHKk-hQ3FSoufnLefdSfSEPDQDJXa2rLaxDMnMgWwHOpv2Ifg9VGUjH5BD6i6W_ObAWez7tO7huxA39D5JH--i8hf5EhCWX8TzTkFXKPmAx1LColrTGhTmYFI5_S-UDrydnVzviO861EM8CQ",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ139JrWsayUwRbNrrU4yfp04",
+        "plus_code": {
+            "compound_code": "FCWC+58 Montreal, Quebec, Canada",
+            "global_code": "87Q8FCWC+58"
+        },
+        "rating": 4.8,
+        "reference": "ChIJ139JrWsayUwRbNrrU4yfp04",
+        "scope": "GOOGLE",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 88,
+        "vicinity": "1450 Guy St, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.572239,
+                "lng": -73.590244
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.57347957989273,
+                    "lng": -73.58872517010728
+                },
+                "southwest": {
+                    "lat": 45.57077992010728,
+                    "lng": -73.59142482989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4d7c048442a02ba20213317d6cab0fc72dc1d3a7",
+        "name": "General Vanier Elementary School",
+        "place_id": "ChIJ9a29tbgeyUwRYsfUds4YZC0",
+        "plus_code": {
+            "compound_code": "HCC5+VW Montreal, Quebec, Canada",
+            "global_code": "87Q8HCC5+VW"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ9a29tbgeyUwRYsfUds4YZC0",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 6,
+        "vicinity": "4555 Rue Buies, Saint-Léonard"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4691248,
+                "lng": -73.7140273
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.47048602989271,
+                    "lng": -73.71269507010727
+                },
+                "southwest": {
+                    "lat": 45.46778637010727,
+                    "lng": -73.71539472989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "077f2d2bfc2a6479494803211e9add27ea77d0dd",
+        "name": "Shipping and Printing Centre - Kativik School Board",
+        "place_id": "ChIJvXXXX88XyUwRoM0FwE4Qvh0",
+        "plus_code": {
+            "compound_code": "F79P+J9 Dorval, Quebec, Canada",
+            "global_code": "87Q8F79P+J9"
+        },
+        "rating": 0,
+        "reference": "ChIJvXXXX88XyUwRoM0FwE4Qvh0",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "9641 Chemin de la Côte-de-Liesse, Dorval"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.561722,
+                "lng": -73.61363899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.56290297989273,
+                    "lng": -73.61243962010728
+                },
+                "southwest": {
+                    "lat": 45.56020332010728,
+                    "lng": -73.61513927989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5bf093824e55ff78aac6817d57c86224f4bd7367",
+        "name": "École Nationale de Cirque",
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109036610382948817309/photos\">Iyad Aswad.</a>"
+                ],
+                "photo_reference": "CmRaAAAAK39Jwk5kdo6aDEI58Xiqaxp0Jl4pm0fgN_Ogq4v5h46e3I4EBjgSfvYcoII-LZyPyiTJYHX_LTYB2IHQQkaFYLBO8GAkfrxj_Pjpdr-zF2ZV5q6TFGWKei6mhWjYrXcmEhDoG5bbsN0JgD4373ZMaklEGhR_2B-RSngNlM93Q-5hlp7nV19I3A",
+                "width": 4344
+            }
+        ],
+        "place_id": "ChIJE5W0Ui0ZyUwRNgd1mrjL_rI",
+        "plus_code": {
+            "compound_code": "H96P+MG Montreal, Quebec, Canada",
+            "global_code": "87Q8H96P+MG"
+        },
+        "rating": 4.7,
+        "reference": "ChIJE5W0Ui0ZyUwRNgd1mrjL_rI",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 20,
+        "vicinity": "8181 2e Avenue, Montréal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4966,
+                "lng": -73.62229099999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49785487989272,
+                    "lng": -73.62102517010727
+                },
+                "southwest": {
+                    "lat": 45.49515522010727,
+                    "lng": -73.62372482989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "640fc9a2837ee16ef60331fd300c1272319b716b",
+        "name": "Elementry school french",
+        "place_id": "ChIJrVYDLPAZyUwR__cIl4R16Xw",
+        "plus_code": {
+            "compound_code": "F9WH+J3 Montreal, Quebec, Canada",
+            "global_code": "87Q8F9WH+J3"
+        },
+        "rating": 4,
+        "reference": "ChIJrVYDLPAZyUwR__cIl4R16Xw",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "5301 Côte-des-Neiges Rd, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4869278,
+                "lng": -73.849097
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.48821662989272,
+                    "lng": -73.84767472010728
+                },
+                "southwest": {
+                    "lat": 45.48551697010728,
+                    "lng": -73.85037437989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "0141d39851903913412baceb20a74fb9c3332e3b",
+        "name": "Emmanuel Christian School",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118210603153661562495/photos\">Emmanuel Christian School</a>"
+                ],
+                "photo_reference": "CmRZAAAAYfJJRRcDYyKLr_XQ-UBX8Fyd3VBXQAFr--jgQ4vp8Tt-6Y-_Q52Ng9bezVF-vaf6xxankKYWnOJZGfMUBaMaU5BSxJ0bKBOeyqNjFMS55Nx4hlm5cCuqCCx3DBtTz1q5EhCgCp0nt7_KA8JejGa9pR9mGhRSaSxGW-gb6QUbA9n-vAXDkUyHuA",
+                "width": 4928
+            }
+        ],
+        "place_id": "ChIJ68AlPXI7yUwR4rRZS0fEEuA",
+        "plus_code": {
+            "compound_code": "F5P2+Q9 Dollard-Des Ormeaux, Quebec, Canada",
+            "global_code": "87Q8F5P2+Q9"
+        },
+        "rating": 3.5,
+        "reference": "ChIJ68AlPXI7yUwR4rRZS0fEEuA",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 15,
+        "vicinity": "4698 Bd St Jean, Dollard-Des Ormeaux"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.5056214,
+                "lng": -73.57231229999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.50704777989272,
+                    "lng": -73.57123432010728
+                },
+                "southwest": {
+                    "lat": 45.50434812010728,
+                    "lng": -73.57393397989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "23d3966c2a5d046d02f023dec3a3e60bb7f718a7",
+        "name": "Trebas Institute",
+        "photos": [
+            {
+                "height": 250,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113405817078347820849/photos\">Trebas Institute</a>"
+                ],
+                "photo_reference": "CmRaAAAALK-F1kpHnzmm96jS-FoQzEzRuAmGk6E-zmMUJVRPgi9FXlFb2c_4QDAVvy6kU80skcmJDQ8Kv7dPiHbo-CwHxJXQ2CoXrjMT7uqN1CFeCWa2J5tp5tHISxtt_g9g5haYEhAj8rNfosaYTywqVnSNC_CMGhSEK56pp0pH89VktF-saHF9FHGnEg",
+                "width": 250
+            }
+        ],
+        "place_id": "ChIJlwzKJEYayUwR2YqdpIesSag",
+        "plus_code": {
+            "compound_code": "GC4H+63 Montreal, Quebec, Canada",
+            "global_code": "87Q8GC4H+63"
+        },
+        "rating": 3.6,
+        "reference": "ChIJlwzKJEYayUwR2YqdpIesSag",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "university",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 27,
+        "vicinity": "550 Sherbrooke St W, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4619684,
+                "lng": -73.64382430000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.46343527989271,
+                    "lng": -73.64238307010727
+                },
+                "southwest": {
+                    "lat": 45.46073562010727,
+                    "lng": -73.64508272989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4e4db859c8abe804b35d0a1cc7ebc96ed17e9385",
+        "name": "Focus High School",
+        "place_id": "ChIJM3cDbjoXyUwRruM_NmjXYyM",
+        "plus_code": {
+            "compound_code": "F964+QF Montreal, Quebec, Canada",
+            "global_code": "87Q8F964+QF"
+        },
+        "rating": 5,
+        "reference": "ChIJM3cDbjoXyUwRruM_NmjXYyM",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "4850 Avenue Coronation, Montréal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.48093739999999,
+                "lng": -73.5949428
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.48208292989272,
+                    "lng": -73.59384227010727
+                },
+                "southwest": {
+                    "lat": 45.47938327010728,
+                    "lng": -73.59654192989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "072e682329533422f2902dc6fc4a59f20dd1d5cd",
+        "name": "Westmount Park Elementary School",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115758446192985122858/photos\">Sophie Dadfar</a>"
+                ],
+                "photo_reference": "CmRaAAAAIhySW7H19NC-GdxlSJf36s0e9L0T7i1rehvAmGc8-161Ljb9JM7-JESPzxG1KaY64xPGFPHFKh7_MnF7Da66Cd4joi9QYU6MQXnIBshBRXKmcD_Nbd1ns0tO2SicgbijEhDqd8IBla1SiPJFFhxm0uuSGhR0n-X1kS_FNp1kHbo6XMk95c1IBg",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJAZ1_e6AQyUwRi_iI9yDFDVc",
+        "plus_code": {
+            "compound_code": "FCJ4+92 Westmount, Quebec, Canada",
+            "global_code": "87Q8FCJ4+92"
+        },
+        "rating": 4.8,
+        "reference": "ChIJAZ1_e6AQyUwRi_iI9yDFDVc",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 17,
+        "vicinity": "15 Park Pl, Westmount"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.493652,
+                "lng": -73.796065
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49487657989272,
+                    "lng": -73.79448187010728
+                },
+                "southwest": {
+                    "lat": 45.49217692010728,
+                    "lng": -73.79718152989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "60cbd7012a62dc4da49c4ebbf81193db2f791bc6",
+        "name": "Springdale Elementary School",
+        "photos": [
+            {
+                "height": 3672,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116844086615281374774/photos\">Abdalrahman Jiha</a>"
+                ],
+                "photo_reference": "CmRaAAAAAwBzycmUXPT_K5ydHiiWkuT5irei-5_-SRUyE_ro7kRrOh84oUeo5rOLABXASjWUKFhzCNkKDODKVHGwjra5ubQ-PgmlNtNRArw9HyG635Ay2WEtbRiaEaDrPy426dQEEhDBY2ibZbO31fqkYKa7YnEeGhTGA437NhX9LSopb18iHPU4NEm5DA",
+                "width": 4896
+            }
+        ],
+        "place_id": "ChIJyTbs48A8yUwRZfvRR4lIui4",
+        "plus_code": {
+            "compound_code": "F6V3+FH Dollard-Des Ormeaux, Quebec, Canada",
+            "global_code": "87Q8F6V3+FH"
+        },
+        "rating": 5,
+        "reference": "ChIJyTbs48A8yUwRZfvRR4lIui4",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "150 Hyman St, Dollard-Des Ormeaux"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.5045388,
+                "lng": -73.5730988
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.50597147989272,
+                    "lng": -73.57166472010726
+                },
+                "southwest": {
+                    "lat": 45.50327182010728,
+                    "lng": -73.57436437989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b52f7bb7dbf6ece5d1e246c726788ef96faf00c2",
+        "name": "Ingram School of Nursing",
+        "place_id": "ChIJVVVVVTgayUwR1In3zQW-3_E",
+        "plus_code": {
+            "compound_code": "GC3G+RQ Montreal, Quebec, Canada",
+            "global_code": "87Q8GC3G+RQ"
+        },
+        "rating": 5,
+        "reference": "ChIJVVVVVTgayUwR1In3zQW-3_E",
+        "scope": "GOOGLE",
+        "types": [
+            "university",
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "680 Sherbrooke West #1800, Montréal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.5821105,
+                "lng": -73.53378979999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.58349757989273,
+                    "lng": -73.53256197010727
+                },
+                "southwest": {
+                    "lat": 45.58079792010729,
+                    "lng": -73.53526162989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "33f920984d0f967222e4f6486bbcc76c81b1a21e",
+        "name": "Edward Murphy Elementary School",
+        "photos": [
+            {
+                "height": 2040,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105176321651701541249/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAANQxx6j8hAV-PeBcnZfOqulP_iPpyTyPkLAtRMuumqcjFIVJA58_0HSni1iO79CuovjnLAY5yVFrmI4FDB-KjC_Pe7rSPmtCeZHaZ5RAeMH2wk6b5ZoMSDOdhDGTN3eyeEhBOdgzbKvchyCwdPQutpK75GhRP0yYqUFubC8xzfeqmHufPA8634A",
+                "width": 1136
+            }
+        ],
+        "place_id": "ChIJW058PzYcyUwRhHWBnyNzx1I",
+        "plus_code": {
+            "compound_code": "HFJ8+RF Montreal, Quebec, Canada",
+            "global_code": "87Q8HFJ8+RF"
+        },
+        "rating": 4,
+        "reference": "ChIJW058PzYcyUwRhHWBnyNzx1I",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "6800 Pierre-de Coubertin Ave, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4875812,
+                "lng": -73.6338894
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.48887997989271,
+                    "lng": -73.63258252010728
+                },
+                "southwest": {
+                    "lat": 45.48618032010727,
+                    "lng": -73.63528217989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "376e4d595f779e6f9996497ca8197a4eacfbdb79",
+        "name": "Talmud Torahs Unis de Montréal Inc. (École Snowdon)",
+        "place_id": "ChIJTfZp8uMZyUwR1EsgX1XzxTs",
+        "plus_code": {
+            "compound_code": "F9Q8+2C Montreal, Quebec, Canada",
+            "global_code": "87Q8F9Q8+2C"
+        },
+        "rating": 2.8,
+        "reference": "ChIJTfZp8uMZyUwR1EsgX1XzxTs",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "5475 Mountain Sights Ave, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.517238,
+                "lng": -73.58975599999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.51848647989272,
+                    "lng": -73.58849932010727
+                },
+                "southwest": {
+                    "lat": 45.51578682010727,
+                    "lng": -73.59119897989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "18bd4bc153d72a3aecbe87d50d2e6e641ac8063b",
+        "name": "College Platon",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 857,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110166560549395601780/photos\">College Platon</a>"
+                ],
+                "photo_reference": "CmRaAAAADvBoNjytgK5A0zB1VGGzn6zefbw9NvYT7na_x_yMwu2w9uO-sSaf-_uGztOretzMTEZelZak1IMsmmzi-3E158XRE7niuvNVypt3IVq79dCtOTlUbwqwAQ4EGBb-VGQuEhBhyv89FssiBesVoii5doQNGhQR6Mht_u3xhYBFmYwI0DXrBkObDA",
+                "width": 1500
+            }
+        ],
+        "place_id": "ChIJqSzumSwayUwRnIc9rg8NXc0",
+        "plus_code": {
+            "compound_code": "GC86+V3 Montreal, Quebec, Canada",
+            "global_code": "87Q8GC86+V3"
+        },
+        "rating": 3.4,
+        "reference": "ChIJqSzumSwayUwRnIc9rg8NXc0",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 46,
+        "vicinity": "4521 Park Ave, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4716855,
+                "lng": -73.63547799999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.47288737989272,
+                    "lng": -73.63425802010728
+                },
+                "southwest": {
+                    "lat": 45.47018772010728,
+                    "lng": -73.63695767989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4f5e076ec59e1c07950ea81b6bd3fc9b326b74cc",
+        "name": "School Rudolf Steiner De Montréal",
+        "place_id": "ChIJ-QCew0gXyUwRXWhzh3P81rk",
+        "plus_code": {
+            "compound_code": "F9C7+MR Montreal, Quebec, Canada",
+            "global_code": "87Q8F9C7+MR"
+        },
+        "rating": 4.7,
+        "reference": "ChIJ-QCew0gXyUwRXWhzh3P81rk",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 14,
+        "vicinity": "4855 Avenue Kensington, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.5054228,
+                "lng": -73.57577049999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.50633732989272,
+                    "lng": -73.5729718
+                },
+                "southwest": {
+                    "lat": 45.50363767010727,
+                    "lng": -73.57670339999999
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "30dc122b7fc39751f7a5edadd0b950aaa373874a",
+        "name": "School of Architecture",
+        "photos": [
+            {
+                "height": 1024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109969198979857615179/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAA_XVgChrPwBKO-yRCvaXiYu4VRVL9M12XKiR4Llszkk-T4F96OoPMhKuddSBvtzrlfD-XllBDlNTFb_-hgE4sEP1WpCcJhM30U7cebp8vtd9eos1Ezk7e75gDksLS2iwmEhB5YOpUy-HquauUgHCFkZyqGhQIcjTmBgYP3i0Lu5XrhoNvF7M-nQ",
+                "width": 1536
+            }
+        ],
+        "place_id": "ChIJEfA3lkcayUwRJ1MzaQpvmoY",
+        "plus_code": {
+            "compound_code": "GC4F+5M Montreal, Quebec, Canada",
+            "global_code": "87Q8GC4F+5M"
+        },
+        "rating": 5,
+        "reference": "ChIJEfA3lkcayUwRJ1MzaQpvmoY",
+        "scope": "GOOGLE",
+        "types": [
+            "university",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "815 Sherbrooke St W, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4718564,
+                "lng": -73.71511009999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.47329097989272,
+                    "lng": -73.71364397010728
+                },
+                "southwest": {
+                    "lat": 45.47059132010728,
+                    "lng": -73.71634362989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "efbb19d8635971e130ed2daaa0f72de522e32658",
+        "name": "Flightsafety Canada Ltd",
+        "place_id": "ChIJ8Xqz_cQXyUwRaC_Rm2-7Kd8",
+        "plus_code": {
+            "compound_code": "F7CM+PX Dorval, Quebec, Canada",
+            "global_code": "87Q8F7CM+PX"
+        },
+        "rating": 0,
+        "reference": "ChIJ8Xqz_cQXyUwRaC_Rm2-7Kd8",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "9555 RYAN AVE, Dorval"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4951771,
+                "lng": -73.58814719999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49648807989272,
+                    "lng": -73.58698127010729
+                },
+                "southwest": {
+                    "lat": 45.49378842010728,
+                    "lng": -73.58968092989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "8397c675673dac07338009602168a09edd1356e7",
+        "name": "The Sacred Heart School Of Montreal",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3036,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/117021256746355724525/photos\">Madi</a>"
+                ],
+                "photo_reference": "CmRaAAAAjda3nqvC17uOGJ2MCEgwwK2uCR96-hqldfxnus-TR32uvagOjsCADez1lVLLTRq2TPYc7BBhc_XbsaWq9TugGmt0KHx5YykRZ46EgUyuxauJfwe_BbJS7oVM81BYbqjeEhC-LrjnfIKgrDCyxTLxr3EXGhQhtIMm3DPPpBDeO2GUbK2dWJBJ2w",
+                "width": 4048
+            }
+        ],
+        "place_id": "ChIJZx9RExQayUwRUG7Jd88IpmI",
+        "plus_code": {
+            "compound_code": "FCW6+3P Montreal, Quebec, Canada",
+            "global_code": "87Q8FCW6+3P"
+        },
+        "rating": 4.5,
+        "reference": "ChIJZx9RExQayUwRUG7Jd88IpmI",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 10,
+        "vicinity": "3635 Atwater Ave, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.428224,
+                "lng": -73.60062529999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.42977117989273,
+                    "lng": -73.59921097010728
+                },
+                "southwest": {
+                    "lat": 45.42707152010728,
+                    "lng": -73.60191062989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1380d58091097ecbf7e1868795f1a1d462a0fbac",
+        "name": "Lasalle Community Comprehensive High School",
+        "place_id": "ChIJhV9-2AsRyUwRCEBSpW-lTdQ",
+        "plus_code": {
+            "compound_code": "C9HX+7P Montreal, Quebec, Canada",
+            "global_code": "87Q8C9HX+7P"
+        },
+        "rating": 3,
+        "reference": "ChIJhV9-2AsRyUwRCEBSpW-lTdQ",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 14,
+        "vicinity": "240 9th Ave, Lasalle"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4566319,
+                "lng": -73.6392872
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.45814592989272,
+                    "lng": -73.63785077010726
+                },
+                "southwest": {
+                    "lat": 45.45544627010727,
+                    "lng": -73.64055042989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "5b5621ca2df1bc84aa90ac235c0917ca8224d4ea",
+        "name": "Loyola High School",
+        "photos": [
+            {
+                "height": 3784,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104724520658386770180/photos\">Loyola High School</a>"
+                ],
+                "photo_reference": "CmRaAAAAxX82JzjfdEkH1WVjWdEsrmhnR51NJtp-56_JWWa_IuzORvLFQUExwRg4aKvhXSsyBttB1fgT8-X3Q7TbTuqEdgEI_T_0-7nMnx_1wHvYsEvAd9_6R9YmamN8YaNTimMLEhCIwv-fWa_NDUSc5Ax5TriVGhShL8i4Omx9e2r49pnCQlWhQ9HIZA",
+                "width": 5676
+            }
+        ],
+        "place_id": "ChIJ9_q2di4XyUwRbIHFWV8y258",
+        "plus_code": {
+            "compound_code": "F946+M7 Montreal, Quebec, Canada",
+            "global_code": "87Q8F946+M7"
+        },
+        "rating": 4.2,
+        "reference": "ChIJ9_q2di4XyUwRbIHFWV8y258",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 21,
+        "vicinity": "7272 Sherbrooke St W, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4933698,
+                "lng": -73.59710339999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49480427989272,
+                    "lng": -73.59596067010729
+                },
+                "southwest": {
+                    "lat": 45.49210462010728,
+                    "lng": -73.59866032989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "19c00dd65a37fab0dadd73773394a731b666ab0a",
+        "name": "The Priory School",
+        "photos": [
+            {
+                "height": 3600,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/102543593598105033537/photos\">theprioryschoolmtl</a>"
+                ],
+                "photo_reference": "CmRaAAAAYUezEkBy64KbiD80IpbdR4nR9jzNjnCnj-IFyyOz5S_FQspsqLFKud8sWGFQlVOj7XBI1FV6XHUhJ7rQsIIcDNfGxjDXxwn5ZROKUPHmvew9eOJGaT46SgAc6rHNOUTAEhCsB8IN5Y39SygG2WOWuAToGhTvlDaF0STBucYCf6WiKPY-L-ut9g",
+                "width": 5420
+            }
+        ],
+        "place_id": "ChIJ261ugRAayUwRtucdgmCPOXs",
+        "plus_code": {
+            "compound_code": "FCV3+85 Montreal, Quebec, Canada",
+            "global_code": "87Q8FCV3+85"
+        },
+        "rating": 3.9,
+        "reference": "ChIJ261ugRAayUwRtucdgmCPOXs",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 7,
+        "vicinity": "3120 The Boulevard, Montréal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.520001,
+                "lng": -73.5947872
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.52140322989273,
+                    "lng": -73.59339227010727
+                },
+                "southwest": {
+                    "lat": 45.51870357010728,
+                    "lng": -73.59609192989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "97cc584b8a255a98420a07467feda2163c2e21f5",
+        "name": "Belz Community High School",
+        "opening_hours": {
+            "open_now": false
+        },
+        "place_id": "ChIJ8QEcUNUbyUwREar0sReetOk",
+        "plus_code": {
+            "compound_code": "GCC4+23 Montreal, Quebec, Canada",
+            "global_code": "87Q8GCC4+23"
+        },
+        "rating": 0,
+        "reference": "ChIJ8QEcUNUbyUwREar0sReetOk",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "5030 Rue Jeanne-Mance, Montréal, QC H2V 4J8 Jeanne Mance St, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.5765202,
+                "lng": -73.56091409999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.57792572989272,
+                    "lng": -73.55973247010726
+                },
+                "southwest": {
+                    "lat": 45.57522607010728,
+                    "lng": -73.56243212989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "03f5d0444bd9a10b8aca27dcf9e118c679a438db",
+        "name": "Pensionnat Notre-Dame-Des-Anges",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1536,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109494875609267934809/photos\">Pensionnat Notre-Dame-Des-Anges</a>"
+                ],
+                "photo_reference": "CmRaAAAAmDZcnCfEvZ1XYNR-XSokBrbahw8u9S5CMpnnTzKEH6gXD7bOBBbGns5nyRSmqU_GHXkOd_3gqxnTz5JpmndDtMqOM3fJzTIkCu9T5fHwZUBLWL_NApifBk0f4HiYo923EhD1m2AwaY6nnNrVEg_hQ_oTGhQwMX8QH-pRUaukTqZjLJJxOOY-JA",
+                "width": 2048
+            }
+        ],
+        "place_id": "ChIJEU_rkCAcyUwRPPW1R3ZKiyA",
+        "plus_code": {
+            "compound_code": "HCGQ+JJ Montreal, Quebec, Canada",
+            "global_code": "87Q8HCGQ+JJ"
+        },
+        "rating": 4.7,
+        "reference": "ChIJEU_rkCAcyUwRPPW1R3ZKiyA",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 19,
+        "vicinity": "5680 Rosemont Blvd, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.36407029999999,
+                "lng": -73.7302729
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.36555422989272,
+                    "lng": -73.72889752010728
+                },
+                "southwest": {
+                    "lat": 45.36285457010727,
+                    "lng": -73.73159717989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6bc08340a91a84f048905bb9177f718831f508eb",
+        "name": "New Frontiers School Board",
+        "opening_hours": {
+            "open_now": false
+        },
+        "place_id": "ChIJ4T5amN0UyUwRnFnEKude9lI",
+        "plus_code": {
+            "compound_code": "9779+JV Châteauguay, Quebec, Canada",
+            "global_code": "87Q89779+JV"
+        },
+        "rating": 5,
+        "reference": "ChIJ4T5amN0UyUwRnFnEKude9lI",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3,
+        "vicinity": "214 Rue McLeod, Châteauguay"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4946989,
+                "lng": -73.57772589999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49615387989272,
+                    "lng": -73.57628227010728
+                },
+                "southwest": {
+                    "lat": 45.49345422010727,
+                    "lng": -73.57898192989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "59d5a9ff8abf7f6a3d0a459324b1eab12830c55a",
+        "name": "Mel Hoppenheim School of Cinema",
+        "place_id": "ChIJ3Y5L0GsayUwRNGFCtp2OTbI",
+        "plus_code": {
+            "compound_code": "FCVC+VW Montreal, Quebec, Canada",
+            "global_code": "87Q8FCVC+VW"
+        },
+        "rating": 0,
+        "reference": "ChIJ3Y5L0GsayUwRNGFCtp2OTbI",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "1250 Guy St, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4818929,
+                "lng": -73.6162762
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.48325207989272,
+                    "lng": -73.61443617010728
+                },
+                "southwest": {
+                    "lat": 45.48055242010727,
+                    "lng": -73.61713582989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "00ecee43c38e6b1ad2f6a2c75462817fde5e9c8c",
+        "name": "Villa Maria",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111621089400821291505/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAAyHDcsVqyS7VAcVVX9AJTtcyGULUwIwpvyJz2BeIGdi0l4jC_-5zOE0VJM8HiLh2NX0u27E9iDSriAPSaW0FDH1PMuWlzZFMJOMi9fSsoTvgPrbsehppLEDARUsuyWqIhEhBwANxXxwyvz5IEVq-LQNJ1GhQJ5HJrFOYoEaMQ9R-sfKVnpifbTQ",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJS_DKrKwQyUwRugeNzu_b_00",
+        "plus_code": {
+            "compound_code": "F9JM+QF Montreal, Quebec, Canada",
+            "global_code": "87Q8F9JM+QF"
+        },
+        "rating": 3.8,
+        "reference": "ChIJS_DKrKwQyUwRugeNzu_b_00",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 55,
+        "vicinity": "4245 Decarie Blvd, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4688223,
+                "lng": -73.63413539999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.47003532989272,
+                    "lng": -73.63248667010728
+                },
+                "southwest": {
+                    "lat": 45.46733567010728,
+                    "lng": -73.63518632989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "43b6b0bdb74465b7d8cbc6d926c93a22262bc56e",
+        "name": "Mackay Centre and Philip E. Layton",
+        "photos": [
+            {
+                "height": 1836,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/109532234193807615702/photos\">Jason S</a>"
+                ],
+                "photo_reference": "CmRaAAAA_1N5Lnh_NGUwfdjNuQ8zvJ6Iu_5-KHAaLf-7dT3mUHmB64qNDBWpsrbcNcAg44fLrtVr1xeMHK13oBEgigX7eHF6ChIcO8zZm4vGwStz0HFnWHYKOD9xWkgRUDHuHhgREhD9uWz8U9dg4nlxNJmx1qmtGhQZKWpGd_Vq8tu0e8i8FxA-Gx2vlw",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJO-yavK8QyUwRHC7yb3OZC6o",
+        "plus_code": {
+            "compound_code": "F998+G8 Montreal, Quebec, Canada",
+            "global_code": "87Q8F998+G8"
+        },
+        "rating": 4.9,
+        "reference": "ChIJO-yavK8QyUwRHC7yb3OZC6o",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 10,
+        "vicinity": "6333 Avenue Terrebonne, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4324739,
+                "lng": -73.67434899999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.43348347989272,
+                    "lng": -73.67346009999999
+                },
+                "southwest": {
+                    "lat": 45.43078382010728,
+                    "lng": -73.67701569999998
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "923c686b1ad9d5a177ee9a5fd061ebd796d071d3",
+        "name": "Collège Sainte-Anne",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107063216606152481508/photos\">Benoit Descary</a>"
+                ],
+                "photo_reference": "CmRaAAAAYTebkUZRHGMD4o__Hb5uukGEczOe-ARarNlLqOnz1Pb7ybmKUZON4fhsKpdIGeDM-W_WPHZWmJsdlK3zfAzK7z8YGOpcjZNbhohqHmQabFHGhV1pPd_1UrZjPYM1efX-EhCW4tt2YfD7eiGM2EPweQ22GhRIKMt_KzABRic7xPWHrbuXLroPWw",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJb56onJUWyUwR047jRGMEJEU",
+        "plus_code": {
+            "compound_code": "C8JG+X7 Montreal, Quebec, Canada",
+            "global_code": "87Q8C8JG+X7"
+        },
+        "rating": 4.5,
+        "reference": "ChIJb56onJUWyUwR047jRGMEJEU",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 57,
+        "vicinity": "1250 Boulevard Saint-Joseph, Lachine"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.575479,
+                "lng": -73.585729
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.57676657989272,
+                    "lng": -73.58440822010726
+                },
+                "southwest": {
+                    "lat": 45.57406692010728,
+                    "lng": -73.5871078798927
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "6e7a558624ffdcfd7f9708edcb88f608d7f82728",
+        "name": "Laurier Macdonald High School",
+        "place_id": "ChIJUXwvMb4eyUwR5e67FFclT9w",
+        "plus_code": {
+            "compound_code": "HCG7+5P Montreal, Quebec, Canada",
+            "global_code": "87Q8HCG7+5P"
+        },
+        "rating": 4.2,
+        "reference": "ChIJUXwvMb4eyUwR5e67FFclT9w",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 13,
+        "vicinity": "7355 Boulevard Viau, Saint-Léonard"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.509752,
+                "lng": -73.504379
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.51119692989271,
+                    "lng": -73.50328327010727
+                },
+                "southwest": {
+                    "lat": 45.50849727010727,
+                    "lng": -73.50598292989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "9d6e5413f244da5bded18a9456553573f206fc90",
+        "name": "Saint Lambert International High School",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104021029134347390476/photos\">Waffle Sauce</a>"
+                ],
+                "photo_reference": "CmRaAAAA3FBjOd_XDqdJTPTar4_d8mSvVKNhi5caa81Y2hFlQ2yRY7B9HUT4Lz28Er4RvORyH2irjUfw9XQJo3FT3jzTFTjlOEEPeZGFs7Vj6_OelgGM3ZjvEY1RjFRp04xeCi1bEhDWgH_uUHtrg7nu9unHM_EMGhSCKpLgfrwVVk1m12VKWm8wYmSzKA",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJad2DHykbyUwR-3M6D0lFEVQ",
+        "plus_code": {
+            "compound_code": "GF5W+W6 Saint-Lambert, Quebec, Canada",
+            "global_code": "87Q8GF5W+W6"
+        },
+        "rating": 4.3,
+        "reference": "ChIJad2DHykbyUwR-3M6D0lFEVQ",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 15,
+        "vicinity": "675 Rue Green, Saint-Lambert"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4850784,
+                "lng": -73.5979322
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.48648072989272,
+                    "lng": -73.59653932010727
+                },
+                "southwest": {
+                    "lat": 45.48378107010728,
+                    "lng": -73.59923897989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1261800f57229b0ae62fc4de767ca45d5df26727",
+        "name": "Akiva School",
+        "place_id": "ChIJCxRgOgkayUwRo2CaTvwNVFA",
+        "plus_code": {
+            "compound_code": "FCP2+2R Westmount, Quebec, Canada",
+            "global_code": "87Q8FCP2+2R"
+        },
+        "rating": 4.6,
+        "reference": "ChIJCxRgOgkayUwRo2CaTvwNVFA",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "450 Avenue Kensington, Westmount"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.478703,
+                "lng": -73.6576879
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.48024157989272,
+                    "lng": -73.65673777010727
+                },
+                "southwest": {
+                    "lat": 45.47754192010727,
+                    "lng": -73.65943742989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "08a78914428e787043a65ed443a42b60ef70b67a",
+        "name": "JPPS Elementary School",
+        "place_id": "ChIJV5iEFt4ZyUwR5h6cEO0n0iY",
+        "plus_code": {
+            "compound_code": "F8HR+FW Côte Saint-Luc, Quebec, Canada",
+            "global_code": "87Q8F8HR+FW"
+        },
+        "rating": 0,
+        "reference": "ChIJV5iEFt4ZyUwR5h6cEO0n0iY",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "6500 Kildare Rd, Côte Saint-Luc"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.3973392,
+                "lng": -73.61348459999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.39839597989273,
+                    "lng": -73.61211767010728
+                },
+                "southwest": {
+                    "lat": 45.39569632010728,
+                    "lng": -73.61481732989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "ddf9e58e4ae63ff384b6350ad416351e25721495",
+        "name": "Kahnawake Survival School",
+        "photos": [
+            {
+                "height": 2160,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110280883836440658215/photos\">Kenzie Whyte</a>"
+                ],
+                "photo_reference": "CmRaAAAAUT6RRMqxFYt8Q_Grwwics2i_wD9kVYJt6VKDTkOZ4SEXe22KN3fNbBPKdz-0AkdlljzAQ3JM6rGb8LD5HkfKVTHJJshwEVfZ1S0eYl33ZDad76aBkTXOZ4y47We3JHW4EhAUP_1ZErqu6zJP-gFtOL13GhSiWATPKdNnNHvgdNM6xz8T_BP-eA",
+                "width": 2160
+            }
+        ],
+        "place_id": "ChIJRUXYNxkUyUwR8nBI9vFp6Mg",
+        "plus_code": {
+            "compound_code": "99WP+WJ Kahnawake, Quebec, Canada",
+            "global_code": "87Q899WP+WJ"
+        },
+        "rating": 4.1,
+        "reference": "ChIJRUXYNxkUyUwR8nBI9vFp6Mg",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 8,
+        "vicinity": "Route 132 E, Kahnawake"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.475216,
+                "lng": -73.63254999999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.47641872989272,
+                    "lng": -73.63086382010728
+                },
+                "southwest": {
+                    "lat": 45.47371907010727,
+                    "lng": -73.63356347989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4a417e77ef14394531674b4e5482bc7ef5e3b3f3",
+        "name": "Royal Vale School",
+        "photos": [
+            {
+                "height": 3456,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/105804596190342414527/photos\">Rick Cognyl Fournier</a>"
+                ],
+                "photo_reference": "CmRaAAAALl7EeU-OP5I9kPN9DKfQYpq6uFqBgd8nhRmmSTYuOeMog1PFlxkh0Iv9oCb62ulFLfSppC_JjVeXPkgPxYaGk_pSigcmylcQ8FQX15y0vQSySA_jBdHndpZdyQse9vtgEhBhSv4SS5gL26-zuVmlPolQGhQ4IJdXgT2NzMigU9lp4CbYXp8BUA",
+                "width": 4608
+            }
+        ],
+        "place_id": "ChIJ9ffmNU4XyUwRfjPqC3s_ULQ",
+        "plus_code": {
+            "compound_code": "F9G8+3X Montreal, Quebec, Canada",
+            "global_code": "87Q8F9G8+3X"
+        },
+        "rating": 4.5,
+        "reference": "ChIJ9ffmNU4XyUwRfjPqC3s_ULQ",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 18,
+        "vicinity": "5851 Somerled Ave, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.5195553,
+                "lng": -73.5884734
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.52083517989272,
+                    "lng": -73.58718837010727
+                },
+                "southwest": {
+                    "lat": 45.51813552010727,
+                    "lng": -73.58988802989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "17d1fd66529441fdb2b4020fa1b1567f237ce333",
+        "name": "Bancroft Elementary School",
+        "photos": [
+            {
+                "height": 640,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100799735605625733864/photos\">Sara Hussein</a>"
+                ],
+                "photo_reference": "CmRaAAAA7aBJmC6EjFzvN4-WcvzzE5KLtrV4_otNo5K7BbL_8KVtvyozix3fesOrKPxfRzBBAlPQoKre_ggAKAX6dOR__FWBmKj5lnTSWlr497Pqb9Oy472twEorfGf2pjLP8vNyEhDlDj_ryxlE3YdHFPDd8giaGhTXqvfrvIRBFVJVJX3focTos1QSoA",
+                "width": 427
+            }
+        ],
+        "place_id": "ChIJoda3RNMbyUwRH8gak0Xp7nY",
+        "plus_code": {
+            "compound_code": "GC96+RJ Montreal, Quebec, Canada",
+            "global_code": "87Q8GC96+RJ"
+        },
+        "rating": 3.1,
+        "reference": "ChIJoda3RNMbyUwRH8gak0Xp7nY",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "4563 St Urbain St, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.5314156,
+                "lng": -73.69581479999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.53272537989272,
+                    "lng": -73.69451782010727
+                },
+                "southwest": {
+                    "lat": 45.53002572010728,
+                    "lng": -73.69721747989271
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "a51a27690f4866c669eed13828e5fabdeb45f8e1",
+        "name": "Sourp Hagop Saturday School",
+        "place_id": "ChIJ35CrfX8YyUwRXLu90JLNtRw",
+        "plus_code": {
+            "compound_code": "G8J3+HM Montreal, Quebec, Canada",
+            "global_code": "87Q8G8J3+HM"
+        },
+        "rating": 0,
+        "reference": "ChIJ35CrfX8YyUwRXLu90JLNtRw",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "3400 Rue Nadon, Montréal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.620757,
+                "lng": -73.445757
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.62217147989271,
+                    "lng": -73.44462542010729
+                },
+                "southwest": {
+                    "lat": 45.61947182010727,
+                    "lng": -73.44732507989274
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2b4ae2026987db9f0466433404ecb1af23b9d704",
+        "name": "Boucherville Elementary School",
+        "photos": [
+            {
+                "height": 3264,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113000605862597110799/photos\">A Google User</a>"
+                ],
+                "photo_reference": "CmRaAAAA1uM9_c2elvcHd3mqPxgnVfvMoZVZQOcJ8fVbTnuW5WjDdouXoqFLAgNOtfrOrkl5XBe9liARMHCFlWBMmgVue_c5CpXTigim3TctZNOdVCvY_FiNiIAtMTufmA74-Bs3EhAJZeN8QsLARSw9hk2jtGTkGhSgw0QucsuXF2cyz5OhMvvNdD6a_g",
+                "width": 2448
+            }
+        ],
+        "place_id": "ChIJgTOjVqTiyEwRhq_nmPT6O6g",
+        "plus_code": {
+            "compound_code": "JHC3+8M Boucherville, Quebec, Canada",
+            "global_code": "87Q8JHC3+8M"
+        },
+        "rating": 5,
+        "reference": "ChIJgTOjVqTiyEwRhq_nmPT6O6g",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1,
+        "vicinity": "800 Rue du Père-Le Jeune, Boucherville"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.52577650000001,
+                "lng": -73.62464109999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.52716767989273,
+                    "lng": -73.62343787010727
+                },
+                "southwest": {
+                    "lat": 45.52446802010729,
+                    "lng": -73.62613752989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "4b6ffe22117c0836d3764d4b8f6d1ed714abc636",
+        "name": "K S Driving School",
+        "opening_hours": {
+            "open_now": false
+        },
+        "place_id": "ChIJCWz4MAoZyUwRzdp5RNH_gNQ",
+        "plus_code": {
+            "compound_code": "G9GG+84 Montreal, Quebec, Canada",
+            "global_code": "87Q8G9GG+84"
+        },
+        "rating": 5,
+        "reference": "ChIJCWz4MAoZyUwRzdp5RNH_gNQ",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2,
+        "vicinity": "852 Rue Jean-Talon Ouest #202, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4734664,
+                "lng": -73.62886639999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.47487547989272,
+                    "lng": -73.62765282010727
+                },
+                "southwest": {
+                    "lat": 45.47217582010728,
+                    "lng": -73.63035247989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "b0ed4549d63e1b161986372889a1c2769689154c",
+        "name": "Willingdon Elementary School",
+        "place_id": "ChIJ9Vh00U0XyUwRCyY73Fpn_Hs",
+        "plus_code": {
+            "compound_code": "F9FC+9F Montreal, Quebec, Canada",
+            "global_code": "87Q8F9FC+9F"
+        },
+        "rating": 4.9,
+        "reference": "ChIJ9Vh00U0XyUwRCyY73Fpn_Hs",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "5870 Rue de Terrebonne, Montréal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.5162595,
+                "lng": -73.69401909999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.51768747989273,
+                    "lng": -73.69282172010728
+                },
+                "southwest": {
+                    "lat": 45.51498782010729,
+                    "lng": -73.69552137989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "24b72314530b1b8f96a512a4ee56911c8d9b23af",
+        "name": "Summit School-Ecole Le Sommet",
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/110898754277144633134/photos\">Vince Di Giulio</a>"
+                ],
+                "photo_reference": "CmRaAAAACnfA4bdIogX_smH1eovTDc0Y-T92Rl1fsBWvKPGUnbZJHRMEA9xJBcWeGDrdnInIjBhhG_cZ85KIyc47R1SbsYuq6by6_IKQmwmztZ1aAHi3ZPjWirk_oLBMtDBnB5vAEhAeRTpK8Oy4Kkfi0aySnAvzGhQQRfhzv_FrvmyC8_6gsbNbNuoRVw",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJAeEbWHIYyUwR5Xc21EfFHg0",
+        "plus_code": {
+            "compound_code": "G884+G9 Montreal, Quebec, Canada",
+            "global_code": "87Q8G884+G9"
+        },
+        "rating": 3.7,
+        "reference": "ChIJAeEbWHIYyUwR5Xc21EfFHg0",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 15,
+        "vicinity": "1750 Rue Deguire, Saint-Laurent"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4954142,
+                "lng": -73.5791346
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.49684437989272,
+                    "lng": -73.57794857010728
+                },
+                "southwest": {
+                    "lat": 45.49414472010727,
+                    "lng": -73.58064822989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "45db97d823d4c4777a544a401ef768b65848c689",
+        "name": "Concordia University, John Molson Building",
+        "photos": [
+            {
+                "height": 4128,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/107718036219730270783/photos\">Hanad Rashid</a>"
+                ],
+                "photo_reference": "CmRaAAAA7tSuakpWvgx1TsGj7xZHyDw3lVMjzirJhXeSHI9XDym0OxGL0UbOV7pRNOj8xEU8TbEiLfRCJH00X4D0AU7_O7HKjYqxB2x_qrAoYSv0HNL19ivzU3iFtUvW93XSvu1cEhC6AdOKOAsi3a2jYnsElXgcGhRPgUD-L-dI1wM16ylEjYu3X4m89w",
+                "width": 2322
+            }
+        ],
+        "place_id": "ChIJFeGlUmoayUwRvOkxuu5Rbn8",
+        "plus_code": {
+            "compound_code": "FCWC+58 Montreal, Quebec, Canada",
+            "global_code": "87Q8FCWC+58"
+        },
+        "rating": 4.3,
+        "reference": "ChIJFeGlUmoayUwRvOkxuu5Rbn8",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "1600 Boulevard de Maisonneuve O, Montréal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4987314,
+                "lng": -73.58429839999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.50005247989273,
+                    "lng": -73.58297532010727
+                },
+                "southwest": {
+                    "lat": 45.49735282010729,
+                    "lng": -73.58567497989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "92010f01419f0de985077abb11499d94333f4416",
+        "name": "Trafalgar School for Girls",
+        "photos": [
+            {
+                "height": 2448,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/111258791576151258594/photos\">Florin Celeapca</a>"
+                ],
+                "photo_reference": "CmRaAAAALSt1FOjuzxTL7c6jeVHCAvXtwvzinw5e56gnKSho8wp4uoiJaoNay8uHq_Z08MHR69rovPwMK8DHlFLRDK_k2sMlkQe9-GfITGPkU6RCLKcAYG74nALed70OtGi8EW3rEhAODJkRWDCoBbFZwTRGanDvGhSMs2pQu69LuU-zagyrU6WyVsKiWQ",
+                "width": 3264
+            }
+        ],
+        "place_id": "ChIJ07X61D8ayUwRR1kDrNPT7hg",
+        "plus_code": {
+            "compound_code": "FCX8+F7 Montreal, Quebec, Canada",
+            "global_code": "87Q8FCX8+F7"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ07X61D8ayUwRR1kDrNPT7hg",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 5,
+        "vicinity": "3495 Simpson St, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.483177,
+                "lng": -73.6094385
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.48443637989273,
+                    "lng": -73.60784852010727
+                },
+                "southwest": {
+                    "lat": 45.48173672010729,
+                    "lng": -73.61054817989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "1bc9d165bf8e97434c9b1be4364277366f342cae",
+        "name": "Roslyn Elementary School",
+        "place_id": "ChIJ8cmrZwcayUwRyuRWCwUJsHk",
+        "plus_code": {
+            "compound_code": "F9MR+76 Westmount, Quebec, Canada",
+            "global_code": "87Q8F9MR+76"
+        },
+        "rating": 4.6,
+        "reference": "ChIJ8cmrZwcayUwRyuRWCwUJsHk",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 9,
+        "vicinity": "4699 Westmount Ave, Westmount"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4707416,
+                "lng": -73.5901698
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.47216647989272,
+                    "lng": -73.58898472010728
+                },
+                "southwest": {
+                    "lat": 45.46946682010727,
+                    "lng": -73.59168437989273
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "2c1b5692ad32e3084a4945fea442597bc3746d3b",
+        "name": "Dehkhoda School",
+        "opening_hours": {
+            "open_now": false
+        },
+        "place_id": "ChIJe7PEBpoQyUwR-akHV2_ieco",
+        "plus_code": {
+            "compound_code": "FCC5+7W Montreal, Quebec, Canada",
+            "global_code": "87Q8FCC5+7W"
+        },
+        "rating": 4.3,
+        "reference": "ChIJe7PEBpoQyUwR-akHV2_ieco",
+        "scope": "GOOGLE",
+        "types": [
+            "point_of_interest",
+            "school",
+            "establishment"
+        ],
+        "user_ratings_total": 4,
+        "vicinity": "4976 Notre-Dame St W, Montreal"
+    },
+    {
+        "geometry": {
+            "location": {
+                "lat": 45.4794772,
+                "lng": -73.64243259999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 45.48073517989272,
+                    "lng": -73.64115757010727
+                },
+                "southwest": {
+                    "lat": 45.47803552010728,
+                    "lng": -73.64385722989272
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/school-71.png",
+        "id": "695c4d77827360f09af79b868d5e4abbf53fa932",
+        "name": "Hampstead School",
+        "place_id": "ChIJEVbN5lwXyUwRQaE8Omz-9-c",
+        "plus_code": {
+            "compound_code": "F9H5+Q2 Hampstead, Quebec, Canada",
+            "global_code": "87Q8F9H5+Q2"
+        },
+        "rating": 0,
+        "reference": "ChIJEVbN5lwXyUwRQaE8Omz-9-c",
+        "scope": "GOOGLE",
+        "types": [
+            "school",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0,
+        "vicinity": "73-83 Thurlow Rd, Hampstead"
+    }
+]

@@ -1,0 +1,782 @@
+[
+    {
+       "nom": "internationale de Montréal (primaire)",
+       "latitude": 45.482341,
+       "longitude": -73.629746
+    },
+    {
+       "nom": "Le Plateau",
+       "latitude": 45.525299,
+       "longitude": -73.567329
+    },
+    {
+       "nom": "Fernand-Seguin, pavillon Hubert-Reeves",
+       "latitude": 45.554253,
+       "longitude": -73.656992
+    },
+    {
+       "nom": "Notre-Dame-du-Foyer",
+       "latitude": 45.572315,
+       "longitude": -73.565165
+    },
+    {
+       "nom": "Saint-Barthélemy - Sagard",
+       "latitude": 45.552611,
+       "longitude": -73.607505
+    },
+    {
+       "nom": "Louis-Hippolyte-Lafontaine",
+       "latitude": 45.523366,
+       "longitude": -73.578045
+    },
+    {
+       "nom": "Saint-André-Apôtre",
+       "latitude": 45.546472,
+       "longitude": -73.670092
+    },
+    {
+       "nom": "Hélène-Boullé",
+       "latitude": 45.540278,
+       "longitude": -73.629479
+    },
+    {
+       "nom": "Anne-Hébert",
+       "latitude": 45.462783,
+       "longitude": -73.639882
+    },
+    {
+       "nom": "La Mennais",
+       "latitude": 45.534707,
+       "longitude": -73.605787
+    },
+    {
+       "nom": "Lambert-Closse",
+       "latitude": 45.52606,
+       "longitude": -73.603862
+    },
+    {
+       "nom": "Sainte-Bibiane",
+       "latitude": 45.553765,
+       "longitude": -73.577837
+    },
+    {
+       "nom": "Sainte-Catherine-de-Sienne",
+       "latitude": 45.469333,
+       "longitude": -73.609767
+    },
+    {
+       "nom": "Laurier",
+       "latitude": 45.52844,
+       "longitude": -73.588508
+    },
+    {
+       "nom": "Montmartre",
+       "latitude": 45.67544,
+       "longitude": -73.498587
+    },
+    {
+       "nom": "Sainte-Claire",
+       "latitude": 45.600193,
+       "longitude": -73.525254
+    },
+    {
+       "nom": "Pierre-de-Coubertin",
+       "latitude": 45.595423,
+       "longitude": -73.632529
+    },
+    {
+       "nom": "Saint-Arsène",
+       "latitude": 45.541364,
+       "longitude": -73.610141
+    },
+    {
+       "nom": "Saint-Fabien",
+       "latitude": 45.58347,
+       "longitude": -73.549953
+    },
+    {
+       "nom": "Saint-Pierre-Claver",
+       "latitude": 45.53762,
+       "longitude": -73.576734
+    },
+    {
+       "nom": "Sainte-Gertrude",
+       "latitude": 45.604778,
+       "longitude": -73.634089
+    },
+    {
+       "nom": "Les Petits chanteurs du Mont-Royal",
+       "latitude": 45.496998,
+       "longitude": -73.622169
+    },
+    {
+       "nom": "Saint-Paul-de-la-Croix",
+       "latitude": 45.559348,
+       "longitude": -73.661692
+    },
+    {
+       "nom": "Des Cinq-Continents",
+       "latitude": 45.483671,
+       "longitude": -73.638412
+    },
+    {
+       "nom": "Notre-Dame-des-Victoires",
+       "latitude": 45.573802,
+       "longitude": -73.540059
+    },
+    {
+       "nom": "Saint-Léon-de-Westmount",
+       "latitude": 45.485826,
+       "longitude": -73.592938
+    },
+    {
+       "nom": "Saint-Enfant-Jésus",
+       "latitude": 45.522417,
+       "longitude": -73.588813
+    },
+    {
+       "nom": "Lanaudière",
+       "latitude": 45.528773,
+       "longitude": -73.574341
+    },
+    {
+       "nom": "Marie-de-l'Incarnation",
+       "latitude": 45.464211,
+       "longitude": -73.584376
+    },
+    {
+       "nom": "Paul-Bruchési",
+       "latitude": 45.53219,
+       "longitude": -73.581906
+    },
+    {
+       "nom": "Alice-Parizeau",
+       "latitude": 45.530473,
+       "longitude": -73.697163
+    },
+    {
+       "nom": "Félix-Leclerc",
+       "latitude": 45.651296,
+       "longitude": -73.504162
+    },
+    {
+       "nom": "Louis-Colin",
+       "latitude": 45.56084,
+       "longitude": -73.654632
+    },
+    {
+       "nom": "Sainte-Maria-Goretti",
+       "latitude": 45.691407,
+       "longitude": -73.488794
+    },
+    {
+       "nom": "Saint-Jean-de-la-Lande",
+       "latitude": 45.548189,
+       "longitude": -73.570617
+    },
+    {
+       "nom": "Notre-Dame-de-Grâce",
+       "latitude": 45.475872,
+       "longitude": -73.61718
+    },
+    {
+       "nom": "Saint-Noël-Chabanel, pavillon des Bâtisseurs",
+       "latitude": 45.578244,
+       "longitude": -73.613704
+    },
+    {
+       "nom": "Simonne-Monet",
+       "latitude": 45.496179,
+       "longitude": -73.627579
+    },
+    {
+       "nom": "Ahuntsic Annexe",
+       "latitude": 45.549686,
+       "longitude": -73.65866
+    },
+    {
+       "nom": "Saint-Marc",
+       "latitude": 45.549838,
+       "longitude": -73.588867
+    },
+    {
+       "nom": "Saint-François-Solano",
+       "latitude": 45.555111,
+       "longitude": -73.57408
+    },
+    {
+       "nom": "François-de-Laval",
+       "latitude": 45.543068,
+       "longitude": -73.696042
+    },
+    {
+       "nom": "Wilfrid-Bastien",
+       "latitude": 45.585705,
+       "longitude": -73.592786
+    },
+    {
+       "nom": "Saint-Barthélemy - Des Érables",
+       "latitude": 45.550236,
+       "longitude": -73.602626
+    },
+    {
+       "nom": "Saint-Louis-de-Gonzague",
+       "latitude": 45.536248,
+       "longitude": -73.564929
+    },
+    {
+       "nom": "Saint-Albert-le-Grand",
+       "latitude": 45.554271,
+       "longitude": -73.56561
+    },
+    {
+       "nom": "Saint-Isaac-Jogues",
+       "latitude": 45.559499,
+       "longitude": -73.643115
+    },
+    {
+       "nom": "Le Carignan",
+       "latitude": 45.610474,
+       "longitude": -73.614735
+    },
+    {
+       "nom": "Victor-Lavigne",
+       "latitude": 45.592514,
+       "longitude": -73.610374
+    },
+    {
+       "nom": "Pie-XII",
+       "latitude": 45.590745,
+       "longitude": -73.604777
+    },
+    {
+       "nom": "Sainte-Germaine-Cousin",
+       "latitude": 45.667781,
+       "longitude": -73.501771
+    },
+    {
+       "nom": "Saint-Étienne",
+       "latitude": 45.536011,
+       "longitude": -73.596587
+    },
+    {
+       "nom": "Saint-Octave",
+       "latitude": 45.628966,
+       "longitude": -73.499161
+    },
+    {
+       "nom": "La Visitation",
+       "latitude": 45.570691,
+       "longitude": -73.655821
+    },
+    {
+       "nom": "Sainte-Jeanne-d'Arc",
+       "latitude": 45.549164,
+       "longitude": -73.554387
+    },
+    {
+       "nom": "Du Petit-Chapiteau",
+       "latitude": 45.494244,
+       "longitude": -73.640139
+    },
+    {
+       "nom": "Saint-François-d'Assise",
+       "latitude": 45.594049,
+       "longitude": -73.518308
+    },
+    {
+       "nom": "Notre-Dame-des-Neiges",
+       "latitude": 45.496832,
+       "longitude": -73.622084
+    },
+    {
+       "nom": "Wilfrid-Pelletier",
+       "latitude": 45.607481,
+       "longitude": -73.553104
+    },
+    {
+       "nom": "Les-Enfants-du-Monde",
+       "latitude": 45.466672,
+       "longitude": -73.649636
+    },
+    {
+       "nom": "Des Nations",
+       "latitude": 45.495917,
+       "longitude": -73.643849
+    },
+    {
+       "nom": "Saint-Ambroise",
+       "latitude": 45.540099,
+       "longitude": -73.601312
+    },
+    {
+       "nom": "La Vérendrye",
+       "latitude": 45.604423,
+       "longitude": -73.526194
+    },
+    {
+       "nom": "Marie-Rivier",
+       "latitude": 45.570801,
+       "longitude": -73.631364
+    },
+    {
+       "nom": "Jean-Baptiste-Meilleur",
+       "latitude": 45.532019,
+       "longitude": -73.558534
+    },
+    {
+       "nom": "Saints-Martyrs-Canadiens",
+       "latitude": 45.570328,
+       "longitude": -73.645789
+    },
+    {
+       "nom": "De la Petite-Bourgogne",
+       "latitude": 45.488684,
+       "longitude": -73.570022
+    },
+    {
+       "nom": "Saint-Émile",
+       "latitude": 45.546134,
+       "longitude": -73.557418
+    },
+    {
+       "nom": "Lambert-Closse",
+       "latitude": 45.586769,
+       "longitude": -73.57446
+    },
+    {
+       "nom": "Montcalm",
+       "latitude": 45.569972,
+       "longitude": -73.622499
+    },
+    {
+       "nom": "Saint-Vincent-Marie",
+       "latitude": 45.593792,
+       "longitude": -73.632276
+    },
+    {
+       "nom": "Jacques-Rousseau",
+       "latitude": 45.605552,
+       "longitude": -73.573257
+    },
+    {
+       "nom": "Saint-Simon-Apôtre",
+       "latitude": 45.539602,
+       "longitude": -73.646977
+    },
+    {
+       "nom": "De La Fraternité",
+       "latitude": 45.597143,
+       "longitude": -73.633321
+    },
+    {
+       "nom": "Chénier",
+       "latitude": 45.604226,
+       "longitude": -73.543015
+    },
+    {
+       "nom": "Sainte-Marguerite-Bourgeoys",
+       "latitude": 45.635912,
+       "longitude": -73.50011
+    },
+    {
+       "nom": "Marc-Favreau",
+       "latitude": 45.469582,
+       "longitude": -73.635927
+    },
+    {
+       "nom": "Marie-Favery",
+       "latitude": 45.545883,
+       "longitude": -73.620609
+    },
+    {
+       "nom": "Coeur-Immaculé-de-Marie",
+       "latitude": 45.455796,
+       "longitude": -73.589636
+    },
+    {
+       "nom": "FACE",
+       "latitude": 45.506105,
+       "longitude": -73.574894
+    },
+    {
+       "nom": "Sainte-Bernadette-Soubirous",
+       "latitude": 45.560537,
+       "longitude": -73.590223
+    },
+    {
+       "nom": "Barclay",
+       "latitude": 45.529029,
+       "longitude": -73.635449
+    },
+    {
+       "nom": "Dollard-des-Ormeaux",
+       "latitude": 45.451645,
+       "longitude": -73.597257
+    },
+    {
+       "nom": "Alphonse-Desjardins",
+       "latitude": 45.5775,
+       "longitude": -73.57011
+    },
+    {
+       "nom": "René-Guénette",
+       "latitude": 45.590114,
+       "longitude": -73.644444
+    },
+    {
+       "nom": "Bedford",
+       "latitude": 45.507253,
+       "longitude": -73.63303
+    },
+    {
+       "nom": "Saint-Jean-Baptiste-de-la-Salle",
+       "latitude": 45.55249,
+       "longitude": -73.546488
+    },
+    {
+       "nom": "François-La Bernarde",
+       "latitude": 45.646889,
+       "longitude": -73.495112
+    },
+    {
+       "nom": "Saint-Jean-de-Matha",
+       "latitude": 45.448324,
+       "longitude": -73.596385
+    },
+    {
+       "nom": "Louisbourg",
+       "latitude": 45.526618,
+       "longitude": -73.709057
+    },
+    {
+       "nom": "La Petite-Patrie, pavillon Notre-Dame-de-la-Défense",
+       "latitude": 45.535398,
+       "longitude": -73.611278
+    },
+    {
+       "nom": "Simone-Desjardins",
+       "latitude": 45.660676,
+       "longitude": -73.561823
+    },
+    {
+       "nom": "Jeanne-LeBer",
+       "latitude": 45.477284,
+       "longitude": -73.556165
+    },
+    {
+       "nom": "Saint-Benoît",
+       "latitude": 45.541624,
+       "longitude": -73.66732
+    },
+    {
+       "nom": "Sainte-Cécile",
+       "latitude": 45.536871,
+       "longitude": -73.617851
+    },
+    {
+       "nom": "Saint-Gabriel-Lalemant",
+       "latitude": 45.547096,
+       "longitude": -73.611258
+    },
+    {
+       "nom": "Saint-Marcel",
+       "latitude": 45.645309,
+       "longitude": -73.503882
+    },
+    {
+       "nom": "Adélard-Desrosiers",
+       "latitude": 45.619284,
+       "longitude": -73.628984
+    },
+    {
+       "nom": "Barthélemy-Vimont",
+       "latitude": 45.53155,
+       "longitude": -73.628754
+    },
+    {
+       "nom": "Saint-Gérard",
+       "latitude": 45.545399,
+       "longitude": -73.63577
+    },
+    {
+       "nom": "Notre-Dame",
+       "latitude": 45.673432,
+       "longitude": -73.494068
+    },
+    {
+       "nom": "Denise-Pelletier",
+       "latitude": 45.63777,
+       "longitude": -73.589798
+    },
+    {
+       "nom": "Saint-Pascal-Baylon",
+       "latitude": 45.501537,
+       "longitude": -73.634473
+    },
+    {
+       "nom": "Sainte-Colette",
+       "latitude": 45.608647,
+       "longitude": -73.628776
+    },
+    {
+       "nom": "Ludger-Duvernay",
+       "latitude": 45.478632,
+       "longitude": -73.586413
+    },
+    {
+       "nom": "Saint-Justin",
+       "latitude": 45.606471,
+       "longitude": -73.532841
+    },
+    {
+       "nom": "La Dauversière",
+       "latitude": 45.581282,
+       "longitude": -73.58126
+    },
+    {
+       "nom": "Saint-Joseph",
+       "latitude": 45.614514,
+       "longitude": -73.554193
+    },
+    {
+       "nom": "Des Roseraies",
+       "latitude": 45.593977,
+       "longitude": -73.553903
+    },
+    {
+       "nom": "Saint-Donat",
+       "latitude": 45.583643,
+       "longitude": -73.539464
+    },
+    {
+       "nom": "Alphonse-Pesant",
+       "latitude": 45.579426,
+       "longitude": -73.603506
+    },
+    {
+       "nom": "Saint-Grégoire-le-Grand",
+       "latitude": 45.552785,
+       "longitude": -73.6167
+    },
+    {
+       "nom": "Maisonneuve",
+       "latitude": 45.552167,
+       "longitude": -73.536421
+    },
+    {
+       "nom": "Notre-Dame-du-Perpétuel-Secours",
+       "latitude": 45.457935,
+       "longitude": -73.597316
+    },
+    {
+       "nom": "Gabrielle-Roy",
+       "latitude": 45.597146,
+       "longitude": -73.601996
+    },
+    {
+       "nom": "Hochelaga",
+       "latitude": 45.541561,
+       "longitude": -73.542613
+    },
+    {
+       "nom": "Saint-Anselme",
+       "latitude": 45.536284,
+       "longitude": -73.554784
+    },
+    {
+       "nom": "Jean-Nicolet",
+       "latitude": 45.600953,
+       "longitude": -73.624816
+    },
+    {
+       "nom": "Saint-Bernardin",
+       "latitude": 45.560945,
+       "longitude": -73.609505
+    },
+    {
+       "nom": "Cardinal-Léger",
+       "latitude": 45.611298,
+       "longitude": -73.547365
+    },
+    {
+       "nom": "Baril",
+       "latitude": 45.5833,
+       "longitude": -73.554654
+    },
+    {
+       "nom": "Philippe-Labarre",
+       "latitude": 45.610579,
+       "longitude": -73.523601
+    },
+    {
+       "nom": "Fernand-Gauthier",
+       "latitude": 45.643219,
+       "longitude": -73.591955
+    },
+    {
+       "nom": "Jules-Verne",
+       "latitude": 45.613681,
+       "longitude": -73.619569
+    },
+    {
+       "nom": "Marguerite-Bourgeoys",
+       "latitude": 45.523767,
+       "longitude": -73.562157
+    },
+    {
+       "nom": "Bienville",
+       "latitude": 45.583182,
+       "longitude": -73.622644
+    },
+    {
+       "nom": "Saint-Rémi",
+       "latitude": 45.582207,
+       "longitude": -73.636025
+    },
+    {
+       "nom": "Sainte-Odile Annexe",
+       "latitude": 45.534507,
+       "longitude": -73.706966
+    },
+    {
+       "nom": "Armand-Lavergne",
+       "latitude": 45.609027,
+       "longitude": -73.517594
+    },
+    {
+       "nom": "Saint-Zotique",
+       "latitude": 45.471216,
+       "longitude": -73.589256
+    },
+    {
+       "nom": "Boucher-De La Bruère",
+       "latitude": 45.58815,
+       "longitude": -73.513319
+    },
+    {
+       "nom": "Christ-Roi",
+       "latitude": 45.550073,
+       "longitude": -73.651735
+    },
+    {
+       "nom": "Saint-Jean-de-Brébeuf",
+       "latitude": 45.548622,
+       "longitude": -73.577879
+    },
+    {
+       "nom": "Marc-Aurèle-Fortin",
+       "latitude": 45.631822,
+       "longitude": -73.600469
+    },
+    {
+       "nom": "Guillaume-Couture",
+       "latitude": 45.58317,
+       "longitude": -73.560556
+    },
+    {
+       "nom": "Sainte-Lucie",
+       "latitude": 45.569146,
+       "longitude": -73.636445
+    },
+    {
+       "nom": "Notre-Dame-De-Fatima",
+       "latitude": 45.647227,
+       "longitude": -73.574904
+    },
+    {
+       "nom": "Lucille-Teasdale",
+       "latitude": 45.499562,
+       "longitude": -73.639808
+    },
+    {
+       "nom": "Victor-Rousselot",
+       "latitude": 45.479363,
+       "longitude": -73.578792
+    },
+    {
+       "nom": "Champlain",
+       "latitude": 45.528085,
+       "longitude": -73.550965
+    },
+    {
+       "nom": "Iona",
+       "latitude": 45.484868,
+       "longitude": -73.624806
+    },
+    {
+       "nom": "Félix-Leclerc",
+       "latitude": 45.507791,
+       "longitude": -73.623868
+    },
+    {
+       "nom": "Charles-Lemoyne",
+       "latitude": 45.480867,
+       "longitude": -73.562041
+    },
+    {
+       "nom": "Garneau",
+       "latitude": 45.524621,
+       "longitude": -73.557347
+    },
+    {
+       "nom": "Élan",
+       "latitude": 45.530791,
+       "longitude": -73.563833
+    },
+    {
+       "nom": "Madeleine-de-Verchères",
+       "latitude": 45.541944,
+       "longitude": -73.592196
+    },
+    {
+       "nom": "Saint-Mathieu",
+       "latitude": 45.556943,
+       "longitude": -73.600025
+    },
+    {
+       "nom": "Sans-Frontières",
+       "latitude": 45.552427,
+       "longitude": -73.582314
+    },
+    {
+       "nom": "Saint-Antoine-Marie-Claret",
+       "latitude": 45.579876,
+       "longitude": -73.649768
+    },
+    {
+       "nom": "Notre-Dame-de-l'Assomption",
+       "latitude": 45.543835,
+       "longitude": -73.552152
+    },
+    {
+       "nom": "Léonard-De Vinci",
+       "latitude": 45.567171,
+       "longitude": -73.599006
+    },
+    {
+       "nom": "Saint-Nom-de-Jésus",
+       "latitude": 45.577732,
+       "longitude": -73.535479
+    },
+    {
+       "nom": "Saint-Jean-Vianney",
+       "latitude": 45.565509,
+       "longitude": -73.576301
+    },
+    {
+       "nom": "Saint-Clément",
+       "latitude": 45.556638,
+       "longitude": -73.533997
+    },
+    {
+       "nom": "Louis-Dupire",
+       "latitude": 45.577918,
+       "longitude": -73.535519
+    },
+    {
+       "nom": "Sainte-Louise-de-Marillac",
+       "latitude": 45.596842,
+       "longitude": -73.529332
+    }
+ ]

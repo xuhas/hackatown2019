@@ -1,0 +1,652 @@
+[
+   {
+      "nom": "L'Académie Beth Rivkah pour filles",
+      "latitude": 45.4951641,
+      "longitude": -73.6449058
+   },
+   {
+      "nom": "Académie Ibn Sina, Campus secondaire",
+      "latitude": 45.6095088,
+      "longitude": -73.6355822
+   },
+   {
+      "nom": "Académie Kells, campus secondaire",
+      "latitude": 45.4595859,
+      "longitude": -73.6313718
+   },
+   {
+      "nom": "Académie Kuper, secondaire",
+      "latitude": 45.452176,
+      "longitude": -73.8392919
+   },
+   {
+      "nom": "Académie Michèle-Provost inc.",
+      "latitude": 45.4983801,
+      "longitude": -73.5863827
+   },
+   {
+      "nom": "Collège Beaubois",
+      "latitude": 45.5074104,
+      "longitude": -73.7790458
+   },
+   {
+      "nom": "Collège Charlemagne inc.",
+      "latitude": 45.460731,
+      "longitude": -73.9179039
+   },
+   {
+      "nom": "Collège de l'Ouest de l'Île, section française",
+      "latitude": 45.4786044,
+      "longitude": -73.8150307
+   },
+   {
+      "nom": "Collège de l'Ouest de l'Île, section anglaise",
+      "latitude": 45.4786044,
+      "longitude": -73.8150307
+   },
+   {
+      "nom": "Collège de Montréal",
+      "latitude": 45.4940487,
+      "longitude": -73.5845159
+   },
+   {
+      "nom": "Collège Jean-de-Brébeuf",
+      "latitude": 45.501634,
+      "longitude": -73.62343
+   },
+   {
+      "nom": "Collège Jean-Eudes",
+      "latitude": 45.5553361,
+      "longitude": -73.5786935
+   },
+   {
+      "nom": "Collège Mont-Royal",
+      "latitude": 45.5989376,
+      "longitude": -73.5158449
+   },
+   {
+      "nom": "Collège Mont-Saint-Louis",
+      "latitude": 45.5677696,
+      "longitude": -73.6595932
+   },
+   {
+      "nom": "Collège Notre-Dame",
+      "latitude": 45.4938337,
+      "longitude": -73.620972
+   },
+   {
+      "nom": "Collège Prep international",
+      "latitude": 45.4543059,
+      "longitude": -73.6422934
+   },
+   {
+      "nom": "Collège Laurier",
+      "latitude": 45.520001,
+      "longitude": -73.5947871
+   },
+   {
+      "nom": "Collège Regina Assumpta",
+      "latitude": 45.565525,
+      "longitude": -73.650863
+   },
+   {
+      "nom": "Collège St-Jean-Vianney",
+      "latitude": 45.6942133,
+      "longitude": -73.521199
+   },
+   {
+      "nom": "Collège Ste-Marcelline",
+      "latitude": 45.515882,
+      "longitude": -73.745859
+   },
+   {
+      "nom": "Collège Ville-Marie",
+      "latitude": 45.539685,
+      "longitude": -73.5594147
+   },
+   {
+      "nom": "Alexander von Humboldt École internationale allemande inc.",
+      "latitude": 45.4175779,
+      "longitude": -73.9076201
+   },
+   {
+      "nom": "École Beth Jacob de Rav Hirschprung, section anglaise",
+      "latitude": 45.5172216,
+      "longitude": -73.6242328
+   },
+   {
+      "nom": "École chrétienne Emmanuel, section française",
+      "latitude": 45.4871165,
+      "longitude": -73.8494269
+   },
+   {
+      "nom": "École Miss Edgar et Miss Cramp",
+      "latitude": 45.4908127,
+      "longitude": -73.5964574
+   },
+   {
+      "nom": "École Maïmonide, Campus Jacob Safra",
+      "latitude": 45.4987325,
+      "longitude": -73.6769259
+   },
+   {
+      "nom": "École Maïmonide, Campus Parkhaven",
+      "latitude": 45.4674428,
+      "longitude": -73.6619889
+   },
+   {
+      "nom": "École Marie-Clarac (Claudette Mackay-Lassonde)",
+      "latitude": 45.5922686,
+      "longitude": -73.6488566
+   },
+   {
+      "nom": "École Pasteur, Pavillon Khalil Gibran",
+      "latitude": 45.5340582,
+      "longitude": -73.7187616
+   },
+   {
+      "nom": "L'École St-Georges de Montréal inc. (campus I)",
+      "latitude": 45.4796791,
+      "longitude": -73.6082535
+   },
+   {
+      "nom": "Collège Jeanne Normandin inc.",
+      "latitude": 45.54776,
+      "longitude": -73.6361694
+   },
+   {
+      "nom": "Collège d'Anjou",
+      "latitude": 45.6123581,
+      "longitude": -73.5966187
+   },
+   {
+      "nom": "École Selwyn House, Campus 2",
+      "latitude": 45.4857292,
+      "longitude": -73.5979691
+   },
+   {
+      "nom": "École Vanguard, secteur francophone",
+      "latitude": 45.4907417,
+      "longitude": -73.6837692
+   },
+   {
+      "nom": "École Vanguard, secteur anglophone",
+      "latitude": 45.4907417,
+      "longitude": -73.6837692
+   },
+   {
+      "nom": "Académie adventiste Greaves, Campus de Montréal",
+      "latitude": 45.4639615,
+      "longitude": -73.6230337
+   },
+   {
+      "nom": "Collège Reine-Marie",
+      "latitude": 45.5731697,
+      "longitude": -73.6325989
+   },
+   {
+      "nom": "L'Académie Centennale",
+      "latitude": 45.4754601,
+      "longitude": -73.6130066
+   },
+   {
+      "nom": "Académie hébraïque  inc., section anglaise",
+      "latitude": 45.4725113,
+      "longitude": -73.6614609
+   },
+   {
+      "nom": "L'école Ali Ibn Abi Talib",
+      "latitude": 45.5288315,
+      "longitude": -73.6527481
+   },
+   {
+      "nom": "L'école Arménienne Sourp Hagop",
+      "latitude": 45.5314713,
+      "longitude": -73.6958618
+   },
+   {
+      "nom": "L'école Sacré-Coeur de Montréal",
+      "latitude": 45.4949188,
+      "longitude": -73.5878525
+   },
+   {
+      "nom": "Les écoles communautaires Skver, section française",
+      "latitude": 45.5221946,
+      "longitude": -73.6161512
+   },
+   {
+      "nom": "Les Écoles juives populaires et les Écoles Peretz inc., Campus Bialik, section anglaise",
+      "latitude": 45.4790154,
+      "longitude": -73.6587525
+   },
+   {
+      "nom": "Le College Lower Canada, Campus primaire et secondaire",
+      "latitude": 45.4705811,
+      "longitude": -73.6239777
+   },
+   {
+      "nom": "École secondaire Loyola",
+      "latitude": 45.4567299,
+      "longitude": -73.6398468
+   },
+   {
+      "nom": "Pensionnat du Saint-Nom-de-Marie",
+      "latitude": 45.5119704,
+      "longitude": -73.6128469
+   },
+   {
+      "nom": "Talmud Torahs Unis de Montréal inc., Campus secondaire, section anglaise",
+      "latitude": 45.4905379,
+      "longitude": -73.6316078
+   },
+   {
+      "nom": "Talmud Torahs Unis de Montréal inc., Campus secondaire, section française",
+      "latitude": 45.49035494,
+      "longitude": -73.63161508
+   },
+   {
+      "nom": "The Study",
+      "latitude": 45.4905548,
+      "longitude": -73.6001816
+   },
+   {
+      "nom": "Collège Trafalgar pour filles",
+      "latitude": 45.498661,
+      "longitude": -73.5839691
+   },
+   {
+      "nom": "Villa Maria",
+      "latitude": 45.4794006,
+      "longitude": -73.6196899
+   },
+   {
+      "nom": "Villa Sainte-Marcelline",
+      "latitude": 45.4895897,
+      "longitude": -73.6177216
+   },
+   {
+      "nom": "Académie Yéshiva Yavné",
+      "latitude": 45.4608002,
+      "longitude": -73.66465
+   },
+   {
+      "nom": "Yeshiva Gedola-Merkaz Hatorah de Montréal",
+      "latitude": 45.5123667,
+      "longitude": -73.6204446
+   },
+   {
+      "nom": "École JMC",
+      "latitude": 45.5165596,
+      "longitude": -73.7182007
+   },
+   {
+      "nom": "École Le Savoir",
+      "latitude": 45.5067291,
+      "longitude": -73.8258286
+   },
+   {
+      "nom": "Collège Sainte-Anne, Campus de Lachine",
+      "latitude": 45.4324739,
+      "longitude": -73.674349
+   },
+   {
+      "nom": "École secondaire Daniel-Johnson",
+      "latitude": 45.6507367,
+      "longitude": -73.4980491
+   },
+   {
+      "nom": "École secondaire de la Pointe-aux-Trembles",
+      "latitude": 45.68474,
+      "longitude": -73.497097
+   },
+   {
+      "nom": "École secondaire Antoine-de-Saint-Exupéry",
+      "latitude": 45.5849001,
+      "longitude": -73.603699
+   },
+   {
+      "nom": "École secondaire Anjou",
+      "latitude": 45.6026125,
+      "longitude": -73.5382962
+   },
+   {
+      "nom": "École secondaire Jean-Grou",
+      "latitude": 45.6515783,
+      "longitude": -73.5812864
+   },
+   {
+      "nom": "École secondaire Amos",
+      "latitude": 45.5868106,
+      "longitude": -73.6428216
+   },
+   {
+      "nom": "École secondaire Calixa-Lavallée",
+      "latitude": 45.5992626,
+      "longitude": -73.638998
+   },
+   {
+      "nom": "École secondaire Henri-Bourassa",
+      "latitude": 45.6139855,
+      "longitude": -73.6216551
+   },
+   {
+      "nom": "École FACE",
+      "latitude": 45.5061048,
+      "longitude": -73.5748935
+   },
+   {
+      "nom": "École Le Vitrail",
+      "latitude": 45.5443188,
+      "longitude": -73.552934
+   },
+   {
+      "nom": "École Louise-Trichet",
+      "latitude": 45.5978051,
+      "longitude": -73.5245819
+   },
+   {
+      "nom": "Académie Dunton",
+      "latitude": 45.5960095,
+      "longitude": -73.5443912
+   },
+   {
+      "nom": "École Louis-Riel",
+      "latitude": 45.5832999,
+      "longitude": -73.5546539
+   },
+   {
+      "nom": "École Édouard-Montpetit",
+      "latitude": 45.5775972,
+      "longitude": -73.5367661
+   },
+   {
+      "nom": "École Marguerite-De Lajemmerais",
+      "latitude": 45.5706387,
+      "longitude": -73.5510713
+   },
+   {
+      "nom": "École Chomedey-De Maisonneuve",
+      "latitude": 45.5529164,
+      "longitude": -73.5383346
+   },
+   {
+      "nom": "École Eulalie-Durocher",
+      "latitude": 45.5548545,
+      "longitude": -73.5454996
+   },
+   {
+      "nom": "École Joseph-François-Perrault",
+      "latitude": 45.5633468,
+      "longitude": -73.6002496
+   },
+   {
+      "nom": "École Louis-Joseph-Papineau",
+      "latitude": 45.5708424,
+      "longitude": -73.6323899
+   },
+   {
+      "nom": "École Pierre-Dupuy",
+      "latitude": 45.5290819,
+      "longitude": -73.5572165
+   },
+   {
+      "nom": "École Jeanne-Mance",
+      "latitude": 45.5325294,
+      "longitude": -73.5690849
+   },
+   {
+      "nom": "Académie De Roberval",
+      "latitude": 45.5461655,
+      "longitude": -73.6111691
+   },
+   {
+      "nom": "École Père-Marquette",
+      "latitude": 45.5410908,
+      "longitude": -73.593602
+   },
+   {
+      "nom": "École Georges-Vanier",
+      "latitude": 45.549341,
+      "longitude": -73.622771
+   },
+   {
+      "nom": "École Sophie-Barat",
+      "latitude": 45.5620221,
+      "longitude": -73.6673138
+   },
+   {
+      "nom": "École Robert-Gravel",
+      "latitude": 45.5244419,
+      "longitude": -73.5940603
+   },
+   {
+      "nom": "École Marie-Anne",
+      "latitude": 45.5480109,
+      "longitude": -73.6589475
+   },
+   {
+      "nom": "École Lucien-Pagé",
+      "latitude": 45.5392818,
+      "longitude": -73.6328295
+   },
+   {
+      "nom": "École Évangéline",
+      "latitude": 45.5394439,
+      "longitude": -73.6919271
+   },
+   {
+      "nom": "École internationale de Montréal",
+      "latitude": 45.4865728,
+      "longitude": -73.5952515
+   },
+   {
+      "nom": "École Saint-Henri",
+      "latitude": 45.4772797,
+      "longitude": -73.5868889
+   },
+   {
+      "nom": "École Honoré-Mercier",
+      "latitude": 45.4556617,
+      "longitude": -73.5908487
+   },
+   {
+      "nom": "École La Voie",
+      "latitude": 45.4987359,
+      "longitude": -73.6410193
+   },
+   {
+      "nom": "École Saint-Luc",
+      "latitude": 45.4744328,
+      "longitude": -73.6431403
+   },
+   {
+      "nom": "École du Sas",
+      "latitude": 45.5165045,
+      "longitude": -73.6105424
+   },
+   {
+      "nom": "École Mont-Royal",
+      "latitude": 45.51326,
+      "longitude": -73.637754
+   },
+   {
+      "nom": "École Paul-Gérin-Lajoie-d'Outremont",
+      "latitude": 45.5203928,
+      "longitude": -73.6079179
+   },
+   {
+      "nom": "École Saint-Laurent",
+      "latitude": 45.5066555,
+      "longitude": -73.7035326
+   },
+   {
+      "nom": "École Pierre-Laporte",
+      "latitude": 45.5234348,
+      "longitude": -73.636601
+   },
+   {
+      "nom": "Collège Saint-Louis",
+      "latitude": 45.434223,
+      "longitude": -73.693954
+   },
+   {
+      "nom": "École Cavelier-De LaSalle",
+      "latitude": 45.4171814,
+      "longitude": -73.6407787
+   },
+   {
+      "nom": "École Dalbé-Viau",
+      "latitude": 45.4419622,
+      "longitude": -73.6802256
+   },
+   {
+      "nom": "École Monseigneur-Richard",
+      "latitude": 45.4700599,
+      "longitude": -73.5606563
+   },
+   {
+      "nom": "École des Sources",
+      "latitude": 45.4909758,
+      "longitude": -73.813169
+   },
+   {
+      "nom": "École Félix-Leclerc",
+      "latitude": 45.4486948,
+      "longitude": -73.8274346
+   },
+   {
+      "nom": "École Dorval-Jean XXIII",
+      "latitude": 45.444639,
+      "longitude": -73.757353
+   },
+   {
+      "nom": "École Saint-Georges",
+      "latitude": 45.411241,
+      "longitude": -73.9518019
+   },
+   {
+      "nom": "École Royal Vale",
+      "latitude": 45.4753341,
+      "longitude": -73.6315324
+   },
+   {
+      "nom": "École F.A.C.E.",
+      "latitude": 45.5061178,
+      "longitude": -73.575099
+   },
+   {
+      "nom": "École secondaire James Lyng",
+      "latitude": 45.468064,
+      "longitude": -73.595747
+   },
+   {
+      "nom": "École secondaire John F. Kennedy",
+      "latitude": 45.5600506,
+      "longitude": -73.6038968
+   },
+   {
+      "nom": "Académie LaurenHill",
+      "latitude": 45.5034856,
+      "longitude": -73.6969196
+   },
+   {
+      "nom": "École secondaire Laurier Macdonald",
+      "latitude": 45.576802,
+      "longitude": -73.585467
+   },
+   {
+      "nom": "École secondaire Lester B. Pearson",
+      "latitude": 45.6112857,
+      "longitude": -73.6179681
+   },
+   {
+      "nom": "Académie Internationale Marymount",
+      "latitude": 45.4827115,
+      "longitude": -73.6207096
+   },
+   {
+      "nom": "École secondaire Rosemont",
+      "latitude": 45.5594942,
+      "longitude": -73.5833782
+   },
+   {
+      "nom": "Académie Royal West",
+      "latitude": 45.4512873,
+      "longitude": -73.6417974
+   },
+   {
+      "nom": "Collège Vincent Massey",
+      "latitude": 45.5637146,
+      "longitude": -73.5714674
+   },
+   {
+      "nom": "École secondaire Westmount",
+      "latitude": 45.4832599,
+      "longitude": -73.590714
+   },
+   {
+      "nom": "École secondaire Options",
+      "latitude": 45.4586359,
+      "longitude": -73.5881402
+   },
+   {
+      "nom": "Ecole secondaire Perspectives II",
+      "latitude": 45.5674194,
+      "longitude": -73.5984694
+   },
+   {
+      "nom": "École Secondaire Beaconsfield",
+      "latitude": 45.429858,
+      "longitude": -73.8650935
+   },
+   {
+      "nom": "École Secondaire John-Rennie",
+      "latitude": 45.450418,
+      "longitude": -73.816838
+   },
+   {
+      "nom": "École secondaire Lakeside Academy",
+      "latitude": 45.4450123,
+      "longitude": -73.7134962
+   },
+   {
+      "nom": "Polyvalente communautaire LaSalle",
+      "latitude": 45.4283933,
+      "longitude": -73.6003887
+   },
+   {
+      "nom": "École Secondaire Lindsay-Place",
+      "latitude": 45.4564354,
+      "longitude": -73.7979292
+   },
+   {
+      "nom": "École secondaire Macdonald",
+      "latitude": 45.4068242,
+      "longitude": -73.9439932
+   },
+   {
+      "nom": "Polyvalente Pierrefonds",
+      "latitude": 45.4931702,
+      "longitude": -73.8499265
+   },
+   {
+      "nom": "École Secondaire Riverdale",
+      "latitude": 45.5098173,
+      "longitude": -73.8227564
+   },
+   {
+      "nom": "École Secondaire Saint-Thomas",
+      "latitude": 45.449628,
+      "longitude": -73.825962
+   },
+   {
+      "nom": "École secondaire Beurling Academy",
+      "latitude": 45.4486886,
+      "longitude": -73.5874252
+   },
+   {
+      "nom": "École secondaire Horizon",
+      "latitude": 45.4631606,
+      "longitude": -73.8060609
+   }
+]
