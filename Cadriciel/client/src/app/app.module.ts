@@ -19,6 +19,7 @@ import { PriorityListComponent } from './priority-list/priority-list.component';
 import {MatMenuModule} from '@angular/material/menu';
 
 import {MatExpansionModule} from '@angular/material/expansion';
+import { ReadingComponent } from './reading/reading.component';
 
 
 @NgModule({
@@ -29,6 +30,7 @@ import {MatExpansionModule} from '@angular/material/expansion';
     
     VueInitialeComponent,
     PriorityListComponent,
+    ReadingComponent,
   ],
   imports: [
     BrowserModule,
