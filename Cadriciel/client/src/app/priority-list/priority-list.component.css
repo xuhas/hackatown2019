@@ -85,3 +85,20 @@
   .small-box {
     height: 100px;
   }
+
+  .qw{
+    display:flex;
+    flex-direction: column;
+  }
+  .wq{
+    display:flex;
+    flex-direction: row;
+  }
+  .yas{
+    display:flex;
+    height: 70px;
+    width:50px;
+    font-size:40px;
+    justify-content: center;
+    padding-top: 30px;
+  }
