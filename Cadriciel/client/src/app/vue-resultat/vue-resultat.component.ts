@@ -28,8 +28,8 @@ export class VueResultatComponent implements OnInit {
     //document.getElementById("map");
   }
 
-  markerIconUrl() {
-    return require('./favorite.png');
-}
+  //markerIconUrl() {
+  //  return require('./favorite.png');
+  //}
 
 }
