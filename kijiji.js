@@ -3,16 +3,7 @@ const Preferences = require('./ad.js').Preferences;
 
 const kijiji = require("kijiji-scraper");
  
-let options = {
-    minResults: 20,
-    maxResults: -1
-};
 
-let params = {
-    locationId: kijiji.locations.QUEBEC.GREATER_MONTREAL.CITY_OF_MONTREAL,  // Same as kijiji.locations.ONTARIO.OTTAWA_GATINEAU_AREA.OTTAWA
-    categoryId: kijiji.categories.REAL_ESTATE.APARTMENTS_AND_CONDOS_FOR_RENT,  // 
-    sortByName: "dateDesc"  // Show the cheapest listings first
-};
 
 function getAds(ads){
     let m_ads = new Array();
@@ -27,24 +18,37 @@ function getAds(ads){
     return m_ads;
 }
 
-let prefs = new Preferences(1,2,3,4,2,1,1,2,1,1,1);
-
-out={
-    Preferences : prefs,
+out = {
+    Preferences : new Preferences(0,0,0,0,0,0,0,0,0,0,0),
     Ads : []
 }
 
-// Scrape using returned promise
-kijiji.search(params, options) 
-    .then( ads => {
-        return getAds(ads);
-    })
-    .then(function(m_ads){
-        out.Ads = m_ads;
-        let json = JSON.stringify(out,null,"   ");
-        console.log(json);
-        console.log('OFFER : ' + m_ads.length);
-    })
-    .catch( err => console.log(err));
+let options = {
+    minResults: 20,
+    maxResults: -1
+};
 
+let params = {
+    locationId: kijiji.locations.QUEBEC.GREATER_MONTREAL.CITY_OF_MONTREAL,  // Same as kijiji.locations.ONTARIO.OTTAWA_GATINEAU_AREA.OTTAWA
+    categoryId: kijiji.categories.REAL_ESTATE.APARTMENTS_AND_CONDOS_FOR_RENT,  // 
+    sortByName: "dateDesc"  // Show the cheapest listings first
+};
+
+// Scrape using returned promise
+function generateAds(prefs, nbResults){
+
+    out.Preferences = prefs;
+    options.minResults = nbResults;
+
+    return kijiji.search(params, options) 
+        .then( ads => {
+            return getAds(ads);
+        })
+        .then(function(m_ads) {
+            out.Ads = m_ads;
+            let json = JSON.stringify(out);
+            return json;
+        })
+        .catch( err => console.log(err));
+}
 
