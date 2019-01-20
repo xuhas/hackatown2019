@@ -29,7 +29,7 @@ export class VueResultatComponent implements OnInit {
   }
 
   markerIconUrl() {
-    return require('./favorite.png')
+    return require('./favorite.png');
 }
 
 }

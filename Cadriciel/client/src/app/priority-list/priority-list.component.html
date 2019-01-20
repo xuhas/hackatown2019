@@ -1,0 +1,31 @@
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif+SC" rel="stylesheet">
+  </head>
+  
+<!-- <div class="modulepriority"> -->
+
+<div class="grid">
+    <div class="big-box">
+      <div class="small-box">
+          <p>1</p>
+        </div>
+        <div class="small-box">
+          <p>2</p>
+        </div>
+        <div class="small-box">
+          <p>3</p>
+        </div>
+        <div class="small-box">
+          <p>4</p>
+        </div>
+</div>  
+
+<div cdkDropList class="example-list" (cdkDropListDropped)="drop($event)">
+    <div class="example-box" *ngFor="let priority of priorities" cdkDrag>
+      
+      {{priority.nom}} 
+</div>
+
+</div>>
+<button mat-raised-button color="primary">Continuer</button>
+
