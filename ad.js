@@ -1,10 +1,11 @@
 class Ad{
-    constructor(id, title, thumbnail, latitude, longitude, url){
+    constructor(id, title, thumbnail, latitude, longitude, url, price){
         this.id = id;
         this.title = title;
         this.thumbnail = thumbnail;
         this.coordinates = {latitude, longitude};
         this.url = url;
+        this.price = price;
     }
 }
 

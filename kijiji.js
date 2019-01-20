@@ -20,7 +20,7 @@ function getAds(ads){
     for (let i = 0; i < ads.length; i++) {
         console.log(ads[i].attributes.type);
         if(ads[i].attributes.type == "OFFER"){
-            m_ads.push(new Ad(i,ads[i].title, ads[i].image, ads[i].attributes.location.latitude, ads[i].attributes.location.longitude, ads[i].url));
+            m_ads.push(new Ad(i,ads[i].title, ads[i].image, ads[i].attributes.location.latitude, ads[i].attributes.location.longitude, ads[i].url, ads[i].attributes.price));
         }
     }
 
@@ -43,7 +43,7 @@ kijiji.search(params, options)
         out.Ads = m_ads;
         let json = JSON.stringify(out,null,"   ");
         console.log(json);
-        console.log(' OFFER : ' + m_ads.length);
+        console.log('OFFER : ' + m_ads.length);
     })
     .catch( err => console.log(err));
 
